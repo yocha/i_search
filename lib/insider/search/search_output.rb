@@ -7,8 +7,7 @@ module Insider
 			attr_accessor :no_scheduled
 			attr_accessor :search_criteria
 			attr_accessor :media_items
-			def initialize(q = 'channelid:3', options = {})
-				result = Insider::Search::search(q, options)
+			def initialize(result)
         @no_ondemand = result.xpath('//search_stats').first.attributes['ondemand_hits'].text.to_i
         @no_scheduled = result.xpath('//search_stats').first.attributes['scheduled_hits'].text.to_i
 				@search_criteria = result.at('search_criteria').text
