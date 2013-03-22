@@ -17,6 +17,11 @@ describe "insider search" do
 				result = Insider::Search::search(q = 'xxxxxxx') 
 				expect(result.class).to eq Insider::Search::SearchOutput
 			end
+			it "#search rcs code (G:A - Europe)" do
+				result = Insider::Search::search(q = 'rcs:G%5C:A') 
+				expect(result.class).to eq Insider::Search::SearchOutput
+				expect(result.media_items.length).to be > 0
+			end
 		end
 		describe "xml" do
 			it "#search using default search criteria" do
@@ -34,9 +39,7 @@ describe "insider search" do
 				search_criteria = Insider::Search::SearchCriteria::formatted_output(input)
 				result = Insider::Search::search(search_criteria)
 				expect(result.class).to eq Insider::Search::SearchOutput
-				puts result.search_criteria
 				result.media_items.each do |m|
-					puts m.title
 					expect(m.group_channel_id).to eq 3
 				end
 			end
@@ -52,8 +55,37 @@ describe "insider search" do
 				search_criteria = Insider::Search::SearchCriteria::formatted_output(input)
 				result = Insider::Search::search(search_criteria)
 				expect(result.class).to eq Insider::Search::SearchOutput
-				result.media_items.each {|m| puts m.title}
 				expect(result.media_items.length).to eq 5
+			end
+			it "#search using ticker" do
+				input = {:includes => [{:type => 'ticker', :text => 'msft'}]}
+				search_criteria = Insider::Search::SearchCriteria::formatted_output(input)
+				result = Insider::Search::search(search_criteria)
+				expect(result.class).to eq Insider::Search::SearchOutput
+				expect(result.media_items.length).to be > 0
+			end
+			it "#search using rcs" do
+				input = {:includes => [{:type => 'care', :id => "G\:A"}]}
+				search_criteria = Insider::Search::SearchCriteria::formatted_output(input)
+				result = Insider::Search::search(search_criteria)
+				expect(result.class).to eq Insider::Search::SearchOutput
+				expect(result.media_items.length).to be > 0
+			end
+			describe "use date" do
+				it "before_date with scheduled" do
+					input = {:before_date => (DateTime.now - 1).to_s}
+					search_criteria = Insider::Search::SearchCriteria::formatted_output(input)
+					result = Insider::Search::search(search_criteria, {:type_filter => 'scheduled'})
+					expect(result.class).to eq Insider::Search::SearchOutput
+					expect(result.media_items.length).to eq 0
+				end
+				it "after_date with ondemand" do
+					input = {:after_date => (DateTime.now + 1).to_s}
+					search_criteria = Insider::Search::SearchCriteria::formatted_output(input)
+					result = Insider::Search::search(search_criteria, {:type_filter => 'ondemand'})
+					expect(result.class).to eq Insider::Search::SearchOutput
+					expect(result.media_items.length).to eq 0
+				end
 			end
 		end
 	end

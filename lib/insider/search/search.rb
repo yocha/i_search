@@ -14,7 +14,7 @@ module Insider
 				:page => '1'
 			}
 			default_options.merge!(options)
-			@api_token = authenticate
+			@api_token = @api_token || authenticate
 			url = "http://#{DOMAIN}/services/media_items/search.xml?"
 			url += "api_token=#{@api_token}&"
 			default_options.each do |key, value|

@@ -1,0 +1,11 @@
+:includes:
+  -
+    :text: "Fixed Income Markets" 
+    :type: marketname 
+  -
+    :text: "Pacific"
+    :type: regionname
+:mode: All
+:order: Date
+:before_date: '03/21/2013'
+:after_date: '03/14/2013'
