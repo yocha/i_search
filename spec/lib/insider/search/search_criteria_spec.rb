@@ -7,8 +7,6 @@ describe "insider search criteria" do
 			expect(input[:includes]).to_not eq nil
 			expect(input[:mode]).to_not eq nil
 			expect(input[:order]).to_not eq nil
-			expect(input[:after_date]).to_not eq nil
-			expect(input[:before_date]).to_not eq nil
 		end
 	end
 	describe "output simple xml" do
@@ -23,9 +21,10 @@ describe "insider search criteria" do
 									xml.type 'text'
 								}
 						}
+						xml.requires
 				}
 			end
-			expect(Insider::Search::SearchCriteria.formatted_output).to eq output.to_xml 
+			expect(Insider::Search::SearchCriteria.formatted_output({:includes => [{:text => 'channelid:3', :type => 'text'}]})).to eq output.to_xml 
 		end
 	end
 end

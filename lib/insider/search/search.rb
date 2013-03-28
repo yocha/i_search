@@ -30,8 +30,8 @@ module Insider
 		end
 		private
 		def self.authenticate
-			email = 'kevin.williams@sidusa.com'
-			password = 'sidusa123'
+			email = ''
+			password = ''
 			url = "http://#{DOMAIN}/security/authenticate.xml?login=#{email}&password=#{password}"
 			xml = Nokogiri::XML open(url)
 			xml.xpath('//api_token').text

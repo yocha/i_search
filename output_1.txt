@@ -1,0 +1,2224 @@
+Agriculture	Abu Dhabi	0
+Agriculture	Afghanistan	0
+Agriculture	Africa	0
+Agriculture	Albania	0
+Agriculture	Algeria	0
+Agriculture	American Samoa	0
+Agriculture	Americas	0
+Agriculture	Andorra	0
+Agriculture	Angola	0
+Agriculture	Anguilla	0
+Agriculture	Antartic Islands	0
+Agriculture	Antigua and Barbuda	0
+Agriculture	Arctic Islands	0
+Agriculture	Argentina	0
+Agriculture	Armenia	0
+Agriculture	Aruba	0
+Agriculture	Asia / Pacific	0
+Agriculture	Atlantic Islands	0
+Agriculture	Australia	0
+Agriculture	Austria	0
+Agriculture	Azerbaijan	0
+Agriculture	Bahamas	0
+Agriculture	Bahrain	0
+Agriculture	Bangladesh	0
+Agriculture	Barbados	0
+Agriculture	Belarus	0
+Agriculture	Belgium	0
+Agriculture	Belize	0
+Agriculture	Benin	0
+Agriculture	Bermuda	0
+Agriculture	Bhutan	0
+Agriculture	Bolivia	0
+Agriculture	Bosnia and Herzegovina	0
+Agriculture	Botswana	0
+Agriculture	Brazil	0
+Agriculture	British Virgin Islands	0
+Agriculture	Brunei	0
+Agriculture	Bulgaria	0
+Agriculture	Burkina Faso	0
+Agriculture	Burundi	0
+Agriculture	Cambodia	0
+Agriculture	Cameroon	0
+Agriculture	Canada	0
+Agriculture	Cape Verde	0
+Agriculture	Cayman Islands	0
+Agriculture	Central African Republic	0
+Agriculture	Chad	0
+Agriculture	Chile	0
+Agriculture	China	0
+Agriculture	Colombia	0
+Agriculture	Comoros	0
+Agriculture	Cook Islands	0
+Agriculture	Costa Rica	0
+Agriculture	Croatia	0
+Agriculture	Cuba	0
+Agriculture	Cyprus	0
+Agriculture	Czech Republic	0
+Agriculture	Democratic Republic of Congo	0
+Agriculture	Democratic Republic Of Congo	0
+Agriculture	Denmark	0
+Agriculture	Djibouti	0
+Agriculture	Dominica	0
+Agriculture	Dominican Republic	0
+Agriculture	Dubai	0
+Agriculture	Ecuador	0
+Agriculture	Egypt	0
+Agriculture	El Salvador	0
+Agriculture	England	0
+Agriculture	Equatorial Guinea	0
+Agriculture	Eritrea	0
+Agriculture	Estonia	0
+Agriculture	Ethiopia	0
+Agriculture	Europe	0
+Agriculture	Falkland Islands	0
+Agriculture	Faroe Islands	0
+Agriculture	Fiji	0
+Agriculture	Finland	0
+Agriculture	France	0
+Agriculture	French Guiana	0
+Agriculture	French Polynesia	0
+Agriculture	Gabon	0
+Agriculture	Gambia	0
+Agriculture	Georgia CIS	0
+Agriculture	Germany	0
+Agriculture	Ghana	0
+Agriculture	Gibraltar	0
+Agriculture	Greece	0
+Agriculture	Greenland	0
+Agriculture	Grenada	0
+Agriculture	Guadeloupe	0
+Agriculture	Guam	0
+Agriculture	Guatemala	0
+Agriculture	Guernsey	0
+Agriculture	Guinea	0
+Agriculture	Guinea Republic	0
+Agriculture	Guinea-Bissau	0
+Agriculture	Guyana	0
+Agriculture	Haiti	0
+Agriculture	Honduras	0
+Agriculture	Hungary	0
+Agriculture	Iceland	0
+Agriculture	India	0
+Agriculture	Indian Ocean Islands	0
+Agriculture	Indonesia	0
+Agriculture	Iran	0
+Agriculture	Iraq	0
+Agriculture	Ireland	0
+Agriculture	Isle of Man	0
+Agriculture	Israel	0
+Agriculture	Italy	0
+Agriculture	Ivory Coast	0
+Agriculture	Jamaica	0
+Agriculture	Japan	0
+Agriculture	Jersey	0
+Agriculture	Jordan	0
+Agriculture	Kazakhstan	0
+Agriculture	Kenya	0
+Agriculture	Kiribati	0
+Agriculture	Kosovo	0
+Agriculture	Kuwait	0
+Agriculture	Kyrgyzstan	0
+Agriculture	Laos	0
+Agriculture	Latvia	0
+Agriculture	Lebanon	0
+Agriculture	Lesotho	0
+Agriculture	Liberia	0
+Agriculture	Libya	0
+Agriculture	Liechtenstein	0
+Agriculture	Lithuania	0
+Agriculture	Luxembourg	0
+Agriculture	Macau	0
+Agriculture	Macedonia	0
+Agriculture	Madagascar	0
+Agriculture	Malawi	0
+Agriculture	Malaysia	0
+Agriculture	Maldives Islands	0
+Agriculture	Mali	0
+Agriculture	Malta	0
+Agriculture	Manitoba	0
+Agriculture	Marshall Islands	0
+Agriculture	Martinique	0
+Agriculture	Mauritania	0
+Agriculture	Mauritius	0
+Agriculture	Mexico	0
+Agriculture	Micronesia	0
+Agriculture	Mideast	0
+Agriculture	Moldova	0
+Agriculture	Monaco	0
+Agriculture	Mongolia	0
+Agriculture	Montenegro	0
+Agriculture	Montserrat	0
+Agriculture	Morocco	0
+Agriculture	Mozambique	0
+Agriculture	Myanmar	0
+Agriculture	Namibia	0
+Agriculture	Nauru	0
+Agriculture	Nepal	0
+Agriculture	Netherlands	0
+Agriculture	Netherlands Antilles	0
+Agriculture	New Caledonia	0
+Agriculture	New Zealand	0
+Agriculture	Nicaragua	0
+Agriculture	Niger	0
+Agriculture	Nigeria	0
+Agriculture	Niue	0
+Agriculture	Norfolk Island	0
+Agriculture	North Korea	0
+Agriculture	Northern Ireland	0
+Agriculture	Northern Mariana Islands	0
+Agriculture	Norway	0
+Agriculture	Oman	0
+Agriculture	Pacific Islands	0
+Agriculture	Pakistan	0
+Agriculture	Palau	0
+Agriculture	Palestinian Territories	0
+Agriculture	Panama	0
+Agriculture	Papua New Guinea	0
+Agriculture	Paraguay	0
+Agriculture	Peoples Republic Of Congo	0
+Agriculture	Peru	0
+Agriculture	Philippines	0
+Agriculture	Pitcairn	0
+Agriculture	Poland	0
+Agriculture	Portugal	0
+Agriculture	Prince Edward Island	0
+Agriculture	Principe and Sao Tome	0
+Agriculture	Puerto Rico	0
+Agriculture	Qatar	0
+Agriculture	Reunion	0
+Agriculture	Romania	0
+Agriculture	Russia	0
+Agriculture	Rwanda	0
+Agriculture	Saint Kitts and Nevis	0
+Agriculture	Saint Lucia	0
+Agriculture	Samoa	0
+Agriculture	San Marino	0
+Agriculture	Saskatchewan	0
+Agriculture	Saudi Arabia	0
+Agriculture	Scotland	0
+Agriculture	Senegal	0
+Agriculture	Serbia	0
+Agriculture	Seychelles	0
+Agriculture	Sierra Leone	0
+Agriculture	Singapore	0
+Agriculture	Slovakia	0
+Agriculture	Slovenia	0
+Agriculture	Solomon Islands	0
+Agriculture	Somalia	0
+Agriculture	South Africa	0
+Agriculture	South Korea	0
+Agriculture	Spain	0
+Agriculture	Sri Lanka	0
+Agriculture	St. Helena	0
+Agriculture	St. Kitts and Nevis	0
+Agriculture	St. Lucia	0
+Agriculture	St. Pierre and Miquelon	0
+Agriculture	St. Vincent and the Grenadines	0
+Agriculture	Sudan	0
+Agriculture	Suriname	0
+Agriculture	Svalbard and Jan Mayen	0
+Agriculture	Swaziland	0
+Agriculture	Sweden	0
+Agriculture	Switzerland	0
+Agriculture	Syria	0
+Agriculture	Taiwan	0
+Agriculture	Tajikistan	0
+Agriculture	Tanzania	0
+Agriculture	Thailand	0
+Agriculture	Timor Leste	0
+Agriculture	Togo	0
+Agriculture	Tonga	0
+Agriculture	Trinidad and Tobago	0
+Agriculture	Tunisia	0
+Agriculture	Turkey	0
+Agriculture	Turkmenistan	0
+Agriculture	Turks and Caicos Islands	0
+Agriculture	Tuvalu	0
+Agriculture	U.S. Virgin Islands	0
+Agriculture	Uganda	0
+Agriculture	Ukraine	0
+Agriculture	United Arab Emirates	0
+Agriculture	United Kingdom	0
+Agriculture	United States	0
+Agriculture	Uruguay	0
+Agriculture	Uzbekistan	0
+Agriculture	Vanuatu	0
+Agriculture	Vatican City	0
+Agriculture	Venezuela	0
+Agriculture	Vietnam	0
+Agriculture	Wales	0
+Agriculture	Wallis and Futuna	0
+Agriculture	Western Sahara	0
+Agriculture	Yemen	0
+Agriculture	Zambia	0
+Agriculture	Zimbabwe	0
+Asset-Backed Securities	Abu Dhabi	0
+Asset-Backed Securities	Afghanistan	0
+Asset-Backed Securities	Africa	0
+Asset-Backed Securities	Albania	0
+Asset-Backed Securities	Algeria	0
+Asset-Backed Securities	American Samoa	0
+Asset-Backed Securities	Americas	1
+Asset-Backed Securities	Andorra	0
+Asset-Backed Securities	Angola	0
+Asset-Backed Securities	Anguilla	0
+Asset-Backed Securities	Antartic Islands	0
+Asset-Backed Securities	Antigua and Barbuda	0
+Asset-Backed Securities	Arctic Islands	0
+Asset-Backed Securities	Argentina	0
+Asset-Backed Securities	Armenia	0
+Asset-Backed Securities	Aruba	0
+Asset-Backed Securities	Asia / Pacific	0
+Asset-Backed Securities	Atlantic Islands	0
+Asset-Backed Securities	Australia	0
+Asset-Backed Securities	Austria	0
+Asset-Backed Securities	Azerbaijan	0
+Asset-Backed Securities	Bahamas	0
+Asset-Backed Securities	Bahrain	0
+Asset-Backed Securities	Bangladesh	0
+Asset-Backed Securities	Barbados	0
+Asset-Backed Securities	Belarus	0
+Asset-Backed Securities	Belgium	0
+Asset-Backed Securities	Belize	0
+Asset-Backed Securities	Benin	0
+Asset-Backed Securities	Bermuda	0
+Asset-Backed Securities	Bhutan	0
+Asset-Backed Securities	Bolivia	0
+Asset-Backed Securities	Bosnia and Herzegovina	0
+Asset-Backed Securities	Botswana	0
+Asset-Backed Securities	Brazil	0
+Asset-Backed Securities	British Virgin Islands	0
+Asset-Backed Securities	Brunei	0
+Asset-Backed Securities	Bulgaria	0
+Asset-Backed Securities	Burkina Faso	0
+Asset-Backed Securities	Burundi	0
+Asset-Backed Securities	Cambodia	0
+Asset-Backed Securities	Cameroon	0
+Asset-Backed Securities	Canada	0
+Asset-Backed Securities	Cape Verde	0
+Asset-Backed Securities	Cayman Islands	0
+Asset-Backed Securities	Central African Republic	0
+Asset-Backed Securities	Chad	0
+Asset-Backed Securities	Chile	0
+Asset-Backed Securities	China	0
+Asset-Backed Securities	Colombia	0
+Asset-Backed Securities	Comoros	0
+Asset-Backed Securities	Cook Islands	0
+Asset-Backed Securities	Costa Rica	0
+Asset-Backed Securities	Croatia	0
+Asset-Backed Securities	Cuba	0
+Asset-Backed Securities	Cyprus	0
+Asset-Backed Securities	Czech Republic	0
+Asset-Backed Securities	Democratic Republic of Congo	0
+Asset-Backed Securities	Democratic Republic Of Congo	0
+Asset-Backed Securities	Denmark	0
+Asset-Backed Securities	Djibouti	0
+Asset-Backed Securities	Dominica	0
+Asset-Backed Securities	Dominican Republic	0
+Asset-Backed Securities	Dubai	0
+Asset-Backed Securities	Ecuador	0
+Asset-Backed Securities	Egypt	0
+Asset-Backed Securities	El Salvador	0
+Asset-Backed Securities	England	0
+Asset-Backed Securities	Equatorial Guinea	0
+Asset-Backed Securities	Eritrea	0
+Asset-Backed Securities	Estonia	0
+Asset-Backed Securities	Ethiopia	0
+Asset-Backed Securities	Europe	0
+Asset-Backed Securities	Falkland Islands	0
+Asset-Backed Securities	Faroe Islands	0
+Asset-Backed Securities	Fiji	0
+Asset-Backed Securities	Finland	0
+Asset-Backed Securities	France	0
+Asset-Backed Securities	French Guiana	0
+Asset-Backed Securities	French Polynesia	0
+Asset-Backed Securities	Gabon	0
+Asset-Backed Securities	Gambia	0
+Asset-Backed Securities	Georgia CIS	0
+Asset-Backed Securities	Germany	0
+Asset-Backed Securities	Ghana	0
+Asset-Backed Securities	Gibraltar	0
+Asset-Backed Securities	Greece	0
+Asset-Backed Securities	Greenland	0
+Asset-Backed Securities	Grenada	0
+Asset-Backed Securities	Guadeloupe	0
+Asset-Backed Securities	Guam	0
+Asset-Backed Securities	Guatemala	0
+Asset-Backed Securities	Guernsey	0
+Asset-Backed Securities	Guinea	0
+Asset-Backed Securities	Guinea Republic	0
+Asset-Backed Securities	Guinea-Bissau	0
+Asset-Backed Securities	Guyana	0
+Asset-Backed Securities	Haiti	0
+Asset-Backed Securities	Honduras	0
+Asset-Backed Securities	Hungary	0
+Asset-Backed Securities	Iceland	0
+Asset-Backed Securities	India	0
+Asset-Backed Securities	Indian Ocean Islands	0
+Asset-Backed Securities	Indonesia	0
+Asset-Backed Securities	Iran	0
+Asset-Backed Securities	Iraq	0
+Asset-Backed Securities	Ireland	0
+Asset-Backed Securities	Isle of Man	0
+Asset-Backed Securities	Israel	0
+Asset-Backed Securities	Italy	0
+Asset-Backed Securities	Ivory Coast	0
+Asset-Backed Securities	Jamaica	0
+Asset-Backed Securities	Japan	0
+Asset-Backed Securities	Jersey	0
+Asset-Backed Securities	Jordan	0
+Asset-Backed Securities	Kazakhstan	0
+Asset-Backed Securities	Kenya	0
+Asset-Backed Securities	Kiribati	0
+Asset-Backed Securities	Kosovo	0
+Asset-Backed Securities	Kuwait	0
+Asset-Backed Securities	Kyrgyzstan	0
+Asset-Backed Securities	Laos	0
+Asset-Backed Securities	Latvia	0
+Asset-Backed Securities	Lebanon	0
+Asset-Backed Securities	Lesotho	0
+Asset-Backed Securities	Liberia	0
+Asset-Backed Securities	Libya	0
+Asset-Backed Securities	Liechtenstein	0
+Asset-Backed Securities	Lithuania	0
+Asset-Backed Securities	Luxembourg	0
+Asset-Backed Securities	Macau	0
+Asset-Backed Securities	Macedonia	0
+Asset-Backed Securities	Madagascar	0
+Asset-Backed Securities	Malawi	0
+Asset-Backed Securities	Malaysia	0
+Asset-Backed Securities	Maldives Islands	0
+Asset-Backed Securities	Mali	0
+Asset-Backed Securities	Malta	0
+Asset-Backed Securities	Manitoba	0
+Asset-Backed Securities	Marshall Islands	0
+Asset-Backed Securities	Martinique	0
+Asset-Backed Securities	Mauritania	0
+Asset-Backed Securities	Mauritius	0
+Asset-Backed Securities	Mexico	0
+Asset-Backed Securities	Micronesia	0
+Asset-Backed Securities	Mideast	0
+Asset-Backed Securities	Moldova	0
+Asset-Backed Securities	Monaco	0
+Asset-Backed Securities	Mongolia	0
+Asset-Backed Securities	Montenegro	0
+Asset-Backed Securities	Montserrat	0
+Asset-Backed Securities	Morocco	0
+Asset-Backed Securities	Mozambique	0
+Asset-Backed Securities	Myanmar	0
+Asset-Backed Securities	Namibia	0
+Asset-Backed Securities	Nauru	0
+Asset-Backed Securities	Nepal	0
+Asset-Backed Securities	Netherlands	0
+Asset-Backed Securities	Netherlands Antilles	0
+Asset-Backed Securities	New Caledonia	0
+Asset-Backed Securities	New Zealand	0
+Asset-Backed Securities	Nicaragua	0
+Asset-Backed Securities	Niger	0
+Asset-Backed Securities	Nigeria	0
+Asset-Backed Securities	Niue	0
+Asset-Backed Securities	Norfolk Island	0
+Asset-Backed Securities	North Korea	0
+Asset-Backed Securities	Northern Ireland	0
+Asset-Backed Securities	Northern Mariana Islands	0
+Asset-Backed Securities	Norway	0
+Asset-Backed Securities	Oman	0
+Asset-Backed Securities	Pacific Islands	0
+Asset-Backed Securities	Pakistan	0
+Asset-Backed Securities	Palau	0
+Asset-Backed Securities	Palestinian Territories	0
+Asset-Backed Securities	Panama	0
+Asset-Backed Securities	Papua New Guinea	0
+Asset-Backed Securities	Paraguay	0
+Asset-Backed Securities	Peoples Republic Of Congo	0
+Asset-Backed Securities	Peru	0
+Asset-Backed Securities	Philippines	0
+Asset-Backed Securities	Pitcairn	0
+Asset-Backed Securities	Poland	0
+Asset-Backed Securities	Portugal	0
+Asset-Backed Securities	Prince Edward Island	0
+Asset-Backed Securities	Principe and Sao Tome	0
+Asset-Backed Securities	Puerto Rico	0
+Asset-Backed Securities	Qatar	0
+Asset-Backed Securities	Reunion	0
+Asset-Backed Securities	Romania	0
+Asset-Backed Securities	Russia	0
+Asset-Backed Securities	Rwanda	0
+Asset-Backed Securities	Saint Kitts and Nevis	0
+Asset-Backed Securities	Saint Lucia	0
+Asset-Backed Securities	Samoa	0
+Asset-Backed Securities	San Marino	0
+Asset-Backed Securities	Saskatchewan	0
+Asset-Backed Securities	Saudi Arabia	0
+Asset-Backed Securities	Scotland	0
+Asset-Backed Securities	Senegal	0
+Asset-Backed Securities	Serbia	0
+Asset-Backed Securities	Seychelles	0
+Asset-Backed Securities	Sierra Leone	0
+Asset-Backed Securities	Singapore	0
+Asset-Backed Securities	Slovakia	0
+Asset-Backed Securities	Slovenia	0
+Asset-Backed Securities	Solomon Islands	0
+Asset-Backed Securities	Somalia	0
+Asset-Backed Securities	South Africa	0
+Asset-Backed Securities	South Korea	0
+Asset-Backed Securities	Spain	0
+Asset-Backed Securities	Sri Lanka	0
+Asset-Backed Securities	St. Helena	0
+Asset-Backed Securities	St. Kitts and Nevis	0
+Asset-Backed Securities	St. Lucia	0
+Asset-Backed Securities	St. Pierre and Miquelon	0
+Asset-Backed Securities	St. Vincent and the Grenadines	0
+Asset-Backed Securities	Sudan	0
+Asset-Backed Securities	Suriname	0
+Asset-Backed Securities	Svalbard and Jan Mayen	0
+Asset-Backed Securities	Swaziland	0
+Asset-Backed Securities	Sweden	0
+Asset-Backed Securities	Switzerland	0
+Asset-Backed Securities	Syria	0
+Asset-Backed Securities	Taiwan	0
+Asset-Backed Securities	Tajikistan	0
+Asset-Backed Securities	Tanzania	0
+Asset-Backed Securities	Thailand	0
+Asset-Backed Securities	Timor Leste	0
+Asset-Backed Securities	Togo	0
+Asset-Backed Securities	Tonga	0
+Asset-Backed Securities	Trinidad and Tobago	0
+Asset-Backed Securities	Tunisia	0
+Asset-Backed Securities	Turkey	0
+Asset-Backed Securities	Turkmenistan	0
+Asset-Backed Securities	Turks and Caicos Islands	0
+Asset-Backed Securities	Tuvalu	0
+Asset-Backed Securities	U.S. Virgin Islands	0
+Asset-Backed Securities	Uganda	0
+Asset-Backed Securities	Ukraine	0
+Asset-Backed Securities	United Arab Emirates	0
+Asset-Backed Securities	United Kingdom	0
+Asset-Backed Securities	United States	1
+Asset-Backed Securities	Uruguay	0
+Asset-Backed Securities	Uzbekistan	0
+Asset-Backed Securities	Vanuatu	0
+Asset-Backed Securities	Vatican City	0
+Asset-Backed Securities	Venezuela	0
+Asset-Backed Securities	Vietnam	0
+Asset-Backed Securities	Wales	0
+Asset-Backed Securities	Wallis and Futuna	0
+Asset-Backed Securities	Western Sahara	0
+Asset-Backed Securities	Yemen	0
+Asset-Backed Securities	Zambia	0
+Asset-Backed Securities	Zimbabwe	0
+Biofuels	Abu Dhabi	0
+Biofuels	Afghanistan	0
+Biofuels	Africa	0
+Biofuels	Albania	0
+Biofuels	Algeria	0
+Biofuels	American Samoa	0
+Biofuels	Americas	2
+Biofuels	Andorra	0
+Biofuels	Angola	0
+Biofuels	Anguilla	0
+Biofuels	Antartic Islands	0
+Biofuels	Antigua and Barbuda	0
+Biofuels	Arctic Islands	0
+Biofuels	Argentina	0
+Biofuels	Armenia	0
+Biofuels	Aruba	0
+Biofuels	Asia / Pacific	0
+Biofuels	Atlantic Islands	0
+Biofuels	Australia	0
+Biofuels	Austria	0
+Biofuels	Azerbaijan	0
+Biofuels	Bahamas	0
+Biofuels	Bahrain	0
+Biofuels	Bangladesh	0
+Biofuels	Barbados	0
+Biofuels	Belarus	0
+Biofuels	Belgium	0
+Biofuels	Belize	0
+Biofuels	Benin	0
+Biofuels	Bermuda	0
+Biofuels	Bhutan	0
+Biofuels	Bolivia	0
+Biofuels	Bosnia and Herzegovina	0
+Biofuels	Botswana	0
+Biofuels	Brazil	1
+Biofuels	British Virgin Islands	0
+Biofuels	Brunei	0
+Biofuels	Bulgaria	0
+Biofuels	Burkina Faso	0
+Biofuels	Burundi	0
+Biofuels	Cambodia	0
+Biofuels	Cameroon	0
+Biofuels	Canada	0
+Biofuels	Cape Verde	0
+Biofuels	Cayman Islands	0
+Biofuels	Central African Republic	0
+Biofuels	Chad	0
+Biofuels	Chile	0
+Biofuels	China	0
+Biofuels	Colombia	0
+Biofuels	Comoros	0
+Biofuels	Cook Islands	0
+Biofuels	Costa Rica	0
+Biofuels	Croatia	0
+Biofuels	Cuba	0
+Biofuels	Cyprus	0
+Biofuels	Czech Republic	0
+Biofuels	Democratic Republic of Congo	0
+Biofuels	Democratic Republic Of Congo	0
+Biofuels	Denmark	0
+Biofuels	Djibouti	0
+Biofuels	Dominica	0
+Biofuels	Dominican Republic	0
+Biofuels	Dubai	0
+Biofuels	Ecuador	0
+Biofuels	Egypt	0
+Biofuels	El Salvador	0
+Biofuels	England	0
+Biofuels	Equatorial Guinea	0
+Biofuels	Eritrea	0
+Biofuels	Estonia	0
+Biofuels	Ethiopia	0
+Biofuels	Europe	0
+Biofuels	Falkland Islands	0
+Biofuels	Faroe Islands	0
+Biofuels	Fiji	0
+Biofuels	Finland	0
+Biofuels	France	0
+Biofuels	French Guiana	0
+Biofuels	French Polynesia	0
+Biofuels	Gabon	0
+Biofuels	Gambia	0
+Biofuels	Georgia CIS	0
+Biofuels	Germany	0
+Biofuels	Ghana	0
+Biofuels	Gibraltar	0
+Biofuels	Greece	0
+Biofuels	Greenland	0
+Biofuels	Grenada	0
+Biofuels	Guadeloupe	0
+Biofuels	Guam	0
+Biofuels	Guatemala	0
+Biofuels	Guernsey	0
+Biofuels	Guinea	0
+Biofuels	Guinea Republic	0
+Biofuels	Guinea-Bissau	0
+Biofuels	Guyana	0
+Biofuels	Haiti	0
+Biofuels	Honduras	0
+Biofuels	Hungary	0
+Biofuels	Iceland	0
+Biofuels	India	0
+Biofuels	Indian Ocean Islands	0
+Biofuels	Indonesia	0
+Biofuels	Iran	0
+Biofuels	Iraq	0
+Biofuels	Ireland	0
+Biofuels	Isle of Man	0
+Biofuels	Israel	0
+Biofuels	Italy	0
+Biofuels	Ivory Coast	0
+Biofuels	Jamaica	0
+Biofuels	Japan	0
+Biofuels	Jersey	0
+Biofuels	Jordan	0
+Biofuels	Kazakhstan	0
+Biofuels	Kenya	0
+Biofuels	Kiribati	0
+Biofuels	Kosovo	0
+Biofuels	Kuwait	0
+Biofuels	Kyrgyzstan	0
+Biofuels	Laos	0
+Biofuels	Latvia	0
+Biofuels	Lebanon	0
+Biofuels	Lesotho	0
+Biofuels	Liberia	0
+Biofuels	Libya	0
+Biofuels	Liechtenstein	0
+Biofuels	Lithuania	0
+Biofuels	Luxembourg	0
+Biofuels	Macau	0
+Biofuels	Macedonia	0
+Biofuels	Madagascar	0
+Biofuels	Malawi	0
+Biofuels	Malaysia	0
+Biofuels	Maldives Islands	0
+Biofuels	Mali	0
+Biofuels	Malta	0
+Biofuels	Manitoba	0
+Biofuels	Marshall Islands	0
+Biofuels	Martinique	0
+Biofuels	Mauritania	0
+Biofuels	Mauritius	0
+Biofuels	Mexico	0
+Biofuels	Micronesia	0
+Biofuels	Mideast	0
+Biofuels	Moldova	0
+Biofuels	Monaco	0
+Biofuels	Mongolia	0
+Biofuels	Montenegro	0
+Biofuels	Montserrat	0
+Biofuels	Morocco	0
+Biofuels	Mozambique	0
+Biofuels	Myanmar	0
+Biofuels	Namibia	0
+Biofuels	Nauru	0
+Biofuels	Nepal	0
+Biofuels	Netherlands	0
+Biofuels	Netherlands Antilles	0
+Biofuels	New Caledonia	0
+Biofuels	New Zealand	0
+Biofuels	Nicaragua	0
+Biofuels	Niger	0
+Biofuels	Nigeria	0
+Biofuels	Niue	0
+Biofuels	Norfolk Island	0
+Biofuels	North Korea	0
+Biofuels	Northern Ireland	0
+Biofuels	Northern Mariana Islands	0
+Biofuels	Norway	0
+Biofuels	Oman	0
+Biofuels	Pacific Islands	0
+Biofuels	Pakistan	0
+Biofuels	Palau	0
+Biofuels	Palestinian Territories	0
+Biofuels	Panama	0
+Biofuels	Papua New Guinea	0
+Biofuels	Paraguay	0
+Biofuels	Peoples Republic Of Congo	0
+Biofuels	Peru	0
+Biofuels	Philippines	0
+Biofuels	Pitcairn	0
+Biofuels	Poland	0
+Biofuels	Portugal	0
+Biofuels	Prince Edward Island	0
+Biofuels	Principe and Sao Tome	0
+Biofuels	Puerto Rico	0
+Biofuels	Qatar	0
+Biofuels	Reunion	0
+Biofuels	Romania	0
+Biofuels	Russia	0
+Biofuels	Rwanda	0
+Biofuels	Saint Kitts and Nevis	0
+Biofuels	Saint Lucia	0
+Biofuels	Samoa	0
+Biofuels	San Marino	0
+Biofuels	Saskatchewan	0
+Biofuels	Saudi Arabia	0
+Biofuels	Scotland	0
+Biofuels	Senegal	0
+Biofuels	Serbia	0
+Biofuels	Seychelles	0
+Biofuels	Sierra Leone	0
+Biofuels	Singapore	0
+Biofuels	Slovakia	0
+Biofuels	Slovenia	0
+Biofuels	Solomon Islands	0
+Biofuels	Somalia	0
+Biofuels	South Africa	0
+Biofuels	South Korea	0
+Biofuels	Spain	0
+Biofuels	Sri Lanka	0
+Biofuels	St. Helena	0
+Biofuels	St. Kitts and Nevis	0
+Biofuels	St. Lucia	0
+Biofuels	St. Pierre and Miquelon	0
+Biofuels	St. Vincent and the Grenadines	0
+Biofuels	Sudan	0
+Biofuels	Suriname	0
+Biofuels	Svalbard and Jan Mayen	0
+Biofuels	Swaziland	0
+Biofuels	Sweden	0
+Biofuels	Switzerland	0
+Biofuels	Syria	0
+Biofuels	Taiwan	0
+Biofuels	Tajikistan	0
+Biofuels	Tanzania	0
+Biofuels	Thailand	0
+Biofuels	Timor Leste	0
+Biofuels	Togo	0
+Biofuels	Tonga	0
+Biofuels	Trinidad and Tobago	0
+Biofuels	Tunisia	0
+Biofuels	Turkey	0
+Biofuels	Turkmenistan	0
+Biofuels	Turks and Caicos Islands	0
+Biofuels	Tuvalu	0
+Biofuels	U.S. Virgin Islands	0
+Biofuels	Uganda	0
+Biofuels	Ukraine	0
+Biofuels	United Arab Emirates	0
+Biofuels	United Kingdom	0
+Biofuels	United States	2
+Biofuels	Uruguay	0
+Biofuels	Uzbekistan	0
+Biofuels	Vanuatu	0
+Biofuels	Vatican City	0
+Biofuels	Venezuela	0
+Biofuels	Vietnam	0
+Biofuels	Wales	0
+Biofuels	Wallis and Futuna	0
+Biofuels	Western Sahara	0
+Biofuels	Yemen	0
+Biofuels	Zambia	0
+Biofuels	Zimbabwe	0
+Coal	Abu Dhabi	0
+Coal	Afghanistan	0
+Coal	Africa	0
+Coal	Albania	0
+Coal	Algeria	0
+Coal	American Samoa	0
+Coal	Americas	1
+Coal	Andorra	0
+Coal	Angola	0
+Coal	Anguilla	0
+Coal	Antartic Islands	0
+Coal	Antigua and Barbuda	0
+Coal	Arctic Islands	0
+Coal	Argentina	0
+Coal	Armenia	0
+Coal	Aruba	0
+Coal	Asia / Pacific	2
+Coal	Atlantic Islands	0
+Coal	Australia	1
+Coal	Austria	0
+Coal	Azerbaijan	0
+Coal	Bahamas	0
+Coal	Bahrain	0
+Coal	Bangladesh	0
+Coal	Barbados	0
+Coal	Belarus	0
+Coal	Belgium	0
+Coal	Belize	0
+Coal	Benin	0
+Coal	Bermuda	0
+Coal	Bhutan	0
+Coal	Bolivia	0
+Coal	Bosnia and Herzegovina	0
+Coal	Botswana	0
+Coal	Brazil	0
+Coal	British Virgin Islands	0
+Coal	Brunei	0
+Coal	Bulgaria	0
+Coal	Burkina Faso	0
+Coal	Burundi	0
+Coal	Cambodia	0
+Coal	Cameroon	0
+Coal	Canada	0
+Coal	Cape Verde	0
+Coal	Cayman Islands	0
+Coal	Central African Republic	0
+Coal	Chad	0
+Coal	Chile	0
+Coal	China	1
+Coal	Colombia	0
+Coal	Comoros	0
+Coal	Cook Islands	0
+Coal	Costa Rica	0
+Coal	Croatia	0
+Coal	Cuba	0
+Coal	Cyprus	0
+Coal	Czech Republic	0
+Coal	Democratic Republic of Congo	0
+Coal	Democratic Republic Of Congo	0
+Coal	Denmark	0
+Coal	Djibouti	0
+Coal	Dominica	0
+Coal	Dominican Republic	0
+Coal	Dubai	0
+Coal	Ecuador	0
+Coal	Egypt	0
+Coal	El Salvador	0
+Coal	England	0
+Coal	Equatorial Guinea	0
+Coal	Eritrea	0
+Coal	Estonia	0
+Coal	Ethiopia	0
+Coal	Europe	1
+Coal	Falkland Islands	0
+Coal	Faroe Islands	0
+Coal	Fiji	0
+Coal	Finland	0
+Coal	France	0
+Coal	French Guiana	0
+Coal	French Polynesia	0
+Coal	Gabon	0
+Coal	Gambia	0
+Coal	Georgia CIS	0
+Coal	Germany	0
+Coal	Ghana	0
+Coal	Gibraltar	0
+Coal	Greece	0
+Coal	Greenland	0
+Coal	Grenada	0
+Coal	Guadeloupe	0
+Coal	Guam	0
+Coal	Guatemala	0
+Coal	Guernsey	0
+Coal	Guinea	0
+Coal	Guinea Republic	0
+Coal	Guinea-Bissau	0
+Coal	Guyana	0
+Coal	Haiti	0
+Coal	Honduras	0
+Coal	Hungary	0
+Coal	Iceland	0
+Coal	India	0
+Coal	Indian Ocean Islands	0
+Coal	Indonesia	0
+Coal	Iran	0
+Coal	Iraq	0
+Coal	Ireland	0
+Coal	Isle of Man	0
+Coal	Israel	0
+Coal	Italy	0
+Coal	Ivory Coast	0
+Coal	Jamaica	0
+Coal	Japan	0
+Coal	Jersey	0
+Coal	Jordan	0
+Coal	Kazakhstan	0
+Coal	Kenya	0
+Coal	Kiribati	0
+Coal	Kosovo	0
+Coal	Kuwait	0
+Coal	Kyrgyzstan	0
+Coal	Laos	0
+Coal	Latvia	0
+Coal	Lebanon	0
+Coal	Lesotho	0
+Coal	Liberia	0
+Coal	Libya	0
+Coal	Liechtenstein	0
+Coal	Lithuania	0
+Coal	Luxembourg	0
+Coal	Macau	0
+Coal	Macedonia	0
+Coal	Madagascar	0
+Coal	Malawi	0
+Coal	Malaysia	0
+Coal	Maldives Islands	0
+Coal	Mali	0
+Coal	Malta	0
+Coal	Manitoba	0
+Coal	Marshall Islands	0
+Coal	Martinique	0
+Coal	Mauritania	0
+Coal	Mauritius	0
+Coal	Mexico	0
+Coal	Micronesia	0
+Coal	Mideast	0
+Coal	Moldova	0
+Coal	Monaco	0
+Coal	Mongolia	0
+Coal	Montenegro	0
+Coal	Montserrat	0
+Coal	Morocco	0
+Coal	Mozambique	0
+Coal	Myanmar	0
+Coal	Namibia	0
+Coal	Nauru	0
+Coal	Nepal	0
+Coal	Netherlands	0
+Coal	Netherlands Antilles	0
+Coal	New Caledonia	0
+Coal	New Zealand	0
+Coal	Nicaragua	0
+Coal	Niger	0
+Coal	Nigeria	0
+Coal	Niue	0
+Coal	Norfolk Island	0
+Coal	North Korea	0
+Coal	Northern Ireland	0
+Coal	Northern Mariana Islands	0
+Coal	Norway	0
+Coal	Oman	0
+Coal	Pacific Islands	0
+Coal	Pakistan	0
+Coal	Palau	0
+Coal	Palestinian Territories	0
+Coal	Panama	0
+Coal	Papua New Guinea	0
+Coal	Paraguay	0
+Coal	Peoples Republic Of Congo	0
+Coal	Peru	0
+Coal	Philippines	0
+Coal	Pitcairn	0
+Coal	Poland	0
+Coal	Portugal	0
+Coal	Prince Edward Island	0
+Coal	Principe and Sao Tome	0
+Coal	Puerto Rico	0
+Coal	Qatar	0
+Coal	Reunion	0
+Coal	Romania	0
+Coal	Russia	0
+Coal	Rwanda	0
+Coal	Saint Kitts and Nevis	0
+Coal	Saint Lucia	0
+Coal	Samoa	0
+Coal	San Marino	0
+Coal	Saskatchewan	0
+Coal	Saudi Arabia	0
+Coal	Scotland	0
+Coal	Senegal	0
+Coal	Serbia	0
+Coal	Seychelles	0
+Coal	Sierra Leone	0
+Coal	Singapore	0
+Coal	Slovakia	0
+Coal	Slovenia	0
+Coal	Solomon Islands	0
+Coal	Somalia	0
+Coal	South Africa	0
+Coal	South Korea	0
+Coal	Spain	0
+Coal	Sri Lanka	0
+Coal	St. Helena	0
+Coal	St. Kitts and Nevis	0
+Coal	St. Lucia	0
+Coal	St. Pierre and Miquelon	0
+Coal	St. Vincent and the Grenadines	0
+Coal	Sudan	0
+Coal	Suriname	0
+Coal	Svalbard and Jan Mayen	0
+Coal	Swaziland	0
+Coal	Sweden	0
+Coal	Switzerland	0
+Coal	Syria	0
+Coal	Taiwan	0
+Coal	Tajikistan	0
+Coal	Tanzania	0
+Coal	Thailand	0
+Coal	Timor Leste	0
+Coal	Togo	0
+Coal	Tonga	0
+Coal	Trinidad and Tobago	0
+Coal	Tunisia	0
+Coal	Turkey	0
+Coal	Turkmenistan	0
+Coal	Turks and Caicos Islands	0
+Coal	Tuvalu	0
+Coal	U.S. Virgin Islands	0
+Coal	Uganda	0
+Coal	Ukraine	0
+Coal	United Arab Emirates	0
+Coal	United Kingdom	1
+Coal	United States	1
+Coal	Uruguay	0
+Coal	Uzbekistan	0
+Coal	Vanuatu	0
+Coal	Vatican City	0
+Coal	Venezuela	0
+Coal	Vietnam	0
+Coal	Wales	0
+Coal	Wallis and Futuna	0
+Coal	Western Sahara	0
+Coal	Yemen	0
+Coal	Zambia	0
+Coal	Zimbabwe	0
+Commodities Markets	Abu Dhabi	0
+Commodities Markets	Afghanistan	0
+Commodities Markets	Africa	27
+Commodities Markets	Albania	0
+Commodities Markets	Algeria	1
+Commodities Markets	American Samoa	0
+Commodities Markets	Americas	370
+Commodities Markets	Andorra	0
+Commodities Markets	Angola	0
+Commodities Markets	Anguilla	0
+Commodities Markets	Antartic Islands	0
+Commodities Markets	Antigua and Barbuda	0
+Commodities Markets	Arctic Islands	0
+Commodities Markets	Argentina	0
+Commodities Markets	Armenia	0
+Commodities Markets	Aruba	0
+Commodities Markets	Asia / Pacific	78
+Commodities Markets	Atlantic Islands	0
+Commodities Markets	Australia	16
+Commodities Markets	Austria	0
+Commodities Markets	Azerbaijan	0
+Commodities Markets	Bahamas	0
+Commodities Markets	Bahrain	0
+Commodities Markets	Bangladesh	0
+Commodities Markets	Barbados	0
+Commodities Markets	Belarus	0
+Commodities Markets	Belgium	0
+Commodities Markets	Belize	0
+Commodities Markets	Benin	0
+Commodities Markets	Bermuda	0
+Commodities Markets	Bhutan	0
+Commodities Markets	Bolivia	0
+Commodities Markets	Bosnia and Herzegovina	0
+Commodities Markets	Botswana	0
+Commodities Markets	Brazil	2
+Commodities Markets	British Virgin Islands	0
+Commodities Markets	Brunei	0
+Commodities Markets	Bulgaria	0
+Commodities Markets	Burkina Faso	0
+Commodities Markets	Burundi	0
+Commodities Markets	Cambodia	1
+Commodities Markets	Cameroon	0
+Commodities Markets	Canada	48
+Commodities Markets	Cape Verde	0
+Commodities Markets	Cayman Islands	0
+Commodities Markets	Central African Republic	12
+Commodities Markets	Chad	0
+Commodities Markets	Chile	2
+Commodities Markets	China	46
+Commodities Markets	Colombia	0
+Commodities Markets	Comoros	0
+Commodities Markets	Cook Islands	0
+Commodities Markets	Costa Rica	0
+Commodities Markets	Croatia	0
+Commodities Markets	Cuba	0
+Commodities Markets	Cyprus	0
+Commodities Markets	Czech Republic	0
+Commodities Markets	Democratic Republic of Congo	0
+Commodities Markets	Democratic Republic Of Congo	0
+Commodities Markets	Denmark	0
+Commodities Markets	Djibouti	0
+Commodities Markets	Dominica	0
+Commodities Markets	Dominican Republic	0
+Commodities Markets	Dubai	0
+Commodities Markets	Ecuador	0
+Commodities Markets	Egypt	0
+Commodities Markets	El Salvador	0
+Commodities Markets	England	12
+Commodities Markets	Equatorial Guinea	0
+Commodities Markets	Eritrea	0
+Commodities Markets	Estonia	0
+Commodities Markets	Ethiopia	0
+Commodities Markets	Europe	89
+Commodities Markets	Falkland Islands	0
+Commodities Markets	Faroe Islands	0
+Commodities Markets	Fiji	0
+Commodities Markets	Finland	0
+Commodities Markets	France	0
+Commodities Markets	French Guiana	0
+Commodities Markets	French Polynesia	0
+Commodities Markets	Gabon	0
+Commodities Markets	Gambia	0
+Commodities Markets	Georgia CIS	0
+Commodities Markets	Germany	12
+Commodities Markets	Ghana	0
+Commodities Markets	Gibraltar	0
+Commodities Markets	Greece	0
+Commodities Markets	Greenland	0
+Commodities Markets	Grenada	0
+Commodities Markets	Guadeloupe	0
+Commodities Markets	Guam	0
+Commodities Markets	Guatemala	0
+Commodities Markets	Guernsey	0
+Commodities Markets	Guinea	0
+Commodities Markets	Guinea Republic	0
+Commodities Markets	Guinea-Bissau	0
+Commodities Markets	Guyana	0
+Commodities Markets	Haiti	0
+Commodities Markets	Honduras	0
+Commodities Markets	Hungary	0
+Commodities Markets	Iceland	0
+Commodities Markets	India	0
+Commodities Markets	Indian Ocean Islands	0
+Commodities Markets	Indonesia	1
+Commodities Markets	Iran	0
+Commodities Markets	Iraq	0
+Commodities Markets	Ireland	0
+Commodities Markets	Isle of Man	0
+Commodities Markets	Israel	0
+Commodities Markets	Italy	1
+Commodities Markets	Ivory Coast	0
+Commodities Markets	Jamaica	0
+Commodities Markets	Japan	7
+Commodities Markets	Jersey	0
+Commodities Markets	Jordan	0
+Commodities Markets	Kazakhstan	0
+Commodities Markets	Kenya	0
+Commodities Markets	Kiribati	0
+Commodities Markets	Kosovo	0
+Commodities Markets	Kuwait	0
+Commodities Markets	Kyrgyzstan	0
+Commodities Markets	Laos	0
+Commodities Markets	Latvia	0
+Commodities Markets	Lebanon	0
+Commodities Markets	Lesotho	0
+Commodities Markets	Liberia	0
+Commodities Markets	Libya	0
+Commodities Markets	Liechtenstein	0
+Commodities Markets	Lithuania	0
+Commodities Markets	Luxembourg	0
+Commodities Markets	Macau	0
+Commodities Markets	Macedonia	0
+Commodities Markets	Madagascar	0
+Commodities Markets	Malawi	0
+Commodities Markets	Malaysia	1
+Commodities Markets	Maldives Islands	0
+Commodities Markets	Mali	0
+Commodities Markets	Malta	0
+Commodities Markets	Manitoba	0
+Commodities Markets	Marshall Islands	0
+Commodities Markets	Martinique	0
+Commodities Markets	Mauritania	0
+Commodities Markets	Mauritius	0
+Commodities Markets	Mexico	3
+Commodities Markets	Micronesia	0
+Commodities Markets	Mideast	7
+Commodities Markets	Moldova	0
+Commodities Markets	Monaco	0
+Commodities Markets	Mongolia	0
+Commodities Markets	Montenegro	0
+Commodities Markets	Montserrat	0
+Commodities Markets	Morocco	0
+Commodities Markets	Mozambique	0
+Commodities Markets	Myanmar	0
+Commodities Markets	Namibia	0
+Commodities Markets	Nauru	0
+Commodities Markets	Nepal	0
+Commodities Markets	Netherlands	2
+Commodities Markets	Netherlands Antilles	0
+Commodities Markets	New Caledonia	0
+Commodities Markets	New Zealand	24
+Commodities Markets	Nicaragua	0
+Commodities Markets	Niger	0
+Commodities Markets	Nigeria	0
+Commodities Markets	Niue	0
+Commodities Markets	Norfolk Island	0
+Commodities Markets	North Korea	0
+Commodities Markets	Northern Ireland	0
+Commodities Markets	Northern Mariana Islands	0
+Commodities Markets	Norway	0
+Commodities Markets	Oman	0
+Commodities Markets	Pacific Islands	0
+Commodities Markets	Pakistan	0
+Commodities Markets	Palau	0
+Commodities Markets	Palestinian Territories	0
+Commodities Markets	Panama	0
+Commodities Markets	Papua New Guinea	0
+Commodities Markets	Paraguay	0
+Commodities Markets	Peoples Republic Of Congo	0
+Commodities Markets	Peru	0
+Commodities Markets	Philippines	0
+Commodities Markets	Pitcairn	0
+Commodities Markets	Poland	0
+Commodities Markets	Portugal	0
+Commodities Markets	Prince Edward Island	0
+Commodities Markets	Principe and Sao Tome	0
+Commodities Markets	Puerto Rico	0
+Commodities Markets	Qatar	0
+Commodities Markets	Reunion	0
+Commodities Markets	Romania	0
+Commodities Markets	Russia	15
+Commodities Markets	Rwanda	0
+Commodities Markets	Saint Kitts and Nevis	0
+Commodities Markets	Saint Lucia	0
+Commodities Markets	Samoa	0
+Commodities Markets	San Marino	0
+Commodities Markets	Saskatchewan	0
+Commodities Markets	Saudi Arabia	2
+Commodities Markets	Scotland	0
+Commodities Markets	Senegal	0
+Commodities Markets	Serbia	0
+Commodities Markets	Seychelles	0
+Commodities Markets	Sierra Leone	0
+Commodities Markets	Singapore	0
+Commodities Markets	Slovakia	0
+Commodities Markets	Slovenia	0
+Commodities Markets	Solomon Islands	0
+Commodities Markets	Somalia	0
+Commodities Markets	South Africa	25
+Commodities Markets	South Korea	31
+Commodities Markets	Spain	0
+Commodities Markets	Sri Lanka	0
+Commodities Markets	St. Helena	0
+Commodities Markets	St. Kitts and Nevis	0
+Commodities Markets	St. Lucia	0
+Commodities Markets	St. Pierre and Miquelon	0
+Commodities Markets	St. Vincent and the Grenadines	0
+Commodities Markets	Sudan	0
+Commodities Markets	Suriname	0
+Commodities Markets	Svalbard and Jan Mayen	0
+Commodities Markets	Swaziland	0
+Commodities Markets	Sweden	0
+Commodities Markets	Switzerland	0
+Commodities Markets	Syria	0
+Commodities Markets	Taiwan	0
+Commodities Markets	Tajikistan	0
+Commodities Markets	Tanzania	0
+Commodities Markets	Thailand	12
+Commodities Markets	Timor Leste	0
+Commodities Markets	Togo	0
+Commodities Markets	Tonga	0
+Commodities Markets	Trinidad and Tobago	0
+Commodities Markets	Tunisia	0
+Commodities Markets	Turkey	0
+Commodities Markets	Turkmenistan	0
+Commodities Markets	Turks and Caicos Islands	0
+Commodities Markets	Tuvalu	0
+Commodities Markets	U.S. Virgin Islands	0
+Commodities Markets	Uganda	0
+Commodities Markets	Ukraine	2
+Commodities Markets	United Arab Emirates	0
+Commodities Markets	United Kingdom	50
+Commodities Markets	United States	355
+Commodities Markets	Uruguay	0
+Commodities Markets	Uzbekistan	0
+Commodities Markets	Vanuatu	0
+Commodities Markets	Vatican City	0
+Commodities Markets	Venezuela	7
+Commodities Markets	Vietnam	0
+Commodities Markets	Wales	0
+Commodities Markets	Wallis and Futuna	0
+Commodities Markets	Western Sahara	0
+Commodities Markets	Yemen	0
+Commodities Markets	Zambia	0
+Commodities Markets	Zimbabwe	0
+Corporate Debt	Abu Dhabi	0
+Corporate Debt	Afghanistan	0
+Corporate Debt	Africa	0
+Corporate Debt	Albania	0
+Corporate Debt	Algeria	0
+Corporate Debt	American Samoa	0
+Corporate Debt	Americas	92
+Corporate Debt	Andorra	0
+Corporate Debt	Angola	0
+Corporate Debt	Anguilla	0
+Corporate Debt	Antartic Islands	0
+Corporate Debt	Antigua and Barbuda	0
+Corporate Debt	Arctic Islands	0
+Corporate Debt	Argentina	0
+Corporate Debt	Armenia	0
+Corporate Debt	Aruba	0
+Corporate Debt	Asia / Pacific	27
+Corporate Debt	Atlantic Islands	0
+Corporate Debt	Australia	0
+Corporate Debt	Austria	0
+Corporate Debt	Azerbaijan	0
+Corporate Debt	Bahamas	0
+Corporate Debt	Bahrain	0
+Corporate Debt	Bangladesh	0
+Corporate Debt	Barbados	0
+Corporate Debt	Belarus	0
+Corporate Debt	Belgium	0
+Corporate Debt	Belize	0
+Corporate Debt	Benin	0
+Corporate Debt	Bermuda	0
+Corporate Debt	Bhutan	0
+Corporate Debt	Bolivia	0
+Corporate Debt	Bosnia and Herzegovina	0
+Corporate Debt	Botswana	0
+Corporate Debt	Brazil	0
+Corporate Debt	British Virgin Islands	0
+Corporate Debt	Brunei	0
+Corporate Debt	Bulgaria	0
+Corporate Debt	Burkina Faso	0
+Corporate Debt	Burundi	0
+Corporate Debt	Cambodia	0
+Corporate Debt	Cameroon	0
+Corporate Debt	Canada	1
+Corporate Debt	Cape Verde	0
+Corporate Debt	Cayman Islands	0
+Corporate Debt	Central African Republic	0
+Corporate Debt	Chad	0
+Corporate Debt	Chile	0
+Corporate Debt	China	4
+Corporate Debt	Colombia	0
+Corporate Debt	Comoros	0
+Corporate Debt	Cook Islands	0
+Corporate Debt	Costa Rica	0
+Corporate Debt	Croatia	0
+Corporate Debt	Cuba	0
+Corporate Debt	Cyprus	0
+Corporate Debt	Czech Republic	0
+Corporate Debt	Democratic Republic of Congo	0
+Corporate Debt	Democratic Republic Of Congo	0
+Corporate Debt	Denmark	0
+Corporate Debt	Djibouti	0
+Corporate Debt	Dominica	0
+Corporate Debt	Dominican Republic	0
+Corporate Debt	Dubai	0
+Corporate Debt	Ecuador	0
+Corporate Debt	Egypt	0
+Corporate Debt	El Salvador	0
+Corporate Debt	England	1
+Corporate Debt	Equatorial Guinea	0
+Corporate Debt	Eritrea	0
+Corporate Debt	Estonia	0
+Corporate Debt	Ethiopia	0
+Corporate Debt	Europe	38
+Corporate Debt	Falkland Islands	0
+Corporate Debt	Faroe Islands	0
+Corporate Debt	Fiji	0
+Corporate Debt	Finland	0
+Corporate Debt	France	0
+Corporate Debt	French Guiana	0
+Corporate Debt	French Polynesia	0
+Corporate Debt	Gabon	0
+Corporate Debt	Gambia	0
+Corporate Debt	Georgia CIS	0
+Corporate Debt	Germany	2
+Corporate Debt	Ghana	0
+Corporate Debt	Gibraltar	0
+Corporate Debt	Greece	0
+Corporate Debt	Greenland	0
+Corporate Debt	Grenada	0
+Corporate Debt	Guadeloupe	0
+Corporate Debt	Guam	0
+Corporate Debt	Guatemala	0
+Corporate Debt	Guernsey	0
+Corporate Debt	Guinea	0
+Corporate Debt	Guinea Republic	0
+Corporate Debt	Guinea-Bissau	0
+Corporate Debt	Guyana	0
+Corporate Debt	Haiti	0
+Corporate Debt	Honduras	0
+Corporate Debt	Hungary	0
+Corporate Debt	Iceland	0
+Corporate Debt	India	0
+Corporate Debt	Indian Ocean Islands	0
+Corporate Debt	Indonesia	0
+Corporate Debt	Iran	0
+Corporate Debt	Iraq	0
+Corporate Debt	Ireland	0
+Corporate Debt	Isle of Man	0
+Corporate Debt	Israel	0
+Corporate Debt	Italy	0
+Corporate Debt	Ivory Coast	0
+Corporate Debt	Jamaica	0
+Corporate Debt	Japan	4
+Corporate Debt	Jersey	0
+Corporate Debt	Jordan	0
+Corporate Debt	Kazakhstan	0
+Corporate Debt	Kenya	0
+Corporate Debt	Kiribati	0
+Corporate Debt	Kosovo	0
+Corporate Debt	Kuwait	0
+Corporate Debt	Kyrgyzstan	0
+Corporate Debt	Laos	0
+Corporate Debt	Latvia	0
+Corporate Debt	Lebanon	0
+Corporate Debt	Lesotho	0
+Corporate Debt	Liberia	0
+Corporate Debt	Libya	0
+Corporate Debt	Liechtenstein	0
+Corporate Debt	Lithuania	0
+Corporate Debt	Luxembourg	0
+Corporate Debt	Macau	0
+Corporate Debt	Macedonia	0
+Corporate Debt	Madagascar	0
+Corporate Debt	Malawi	0
+Corporate Debt	Malaysia	0
+Corporate Debt	Maldives Islands	0
+Corporate Debt	Mali	0
+Corporate Debt	Malta	0
+Corporate Debt	Manitoba	0
+Corporate Debt	Marshall Islands	0
+Corporate Debt	Martinique	0
+Corporate Debt	Mauritania	0
+Corporate Debt	Mauritius	0
+Corporate Debt	Mexico	0
+Corporate Debt	Micronesia	0
+Corporate Debt	Mideast	0
+Corporate Debt	Moldova	0
+Corporate Debt	Monaco	0
+Corporate Debt	Mongolia	0
+Corporate Debt	Montenegro	0
+Corporate Debt	Montserrat	0
+Corporate Debt	Morocco	0
+Corporate Debt	Mozambique	0
+Corporate Debt	Myanmar	0
+Corporate Debt	Namibia	0
+Corporate Debt	Nauru	0
+Corporate Debt	Nepal	0
+Corporate Debt	Netherlands	0
+Corporate Debt	Netherlands Antilles	0
+Corporate Debt	New Caledonia	0
+Corporate Debt	New Zealand	0
+Corporate Debt	Nicaragua	0
+Corporate Debt	Niger	0
+Corporate Debt	Nigeria	0
+Corporate Debt	Niue	0
+Corporate Debt	Norfolk Island	0
+Corporate Debt	North Korea	0
+Corporate Debt	Northern Ireland	0
+Corporate Debt	Northern Mariana Islands	0
+Corporate Debt	Norway	0
+Corporate Debt	Oman	0
+Corporate Debt	Pacific Islands	0
+Corporate Debt	Pakistan	0
+Corporate Debt	Palau	0
+Corporate Debt	Palestinian Territories	0
+Corporate Debt	Panama	0
+Corporate Debt	Papua New Guinea	0
+Corporate Debt	Paraguay	0
+Corporate Debt	Peoples Republic Of Congo	0
+Corporate Debt	Peru	0
+Corporate Debt	Philippines	0
+Corporate Debt	Pitcairn	0
+Corporate Debt	Poland	0
+Corporate Debt	Portugal	0
+Corporate Debt	Prince Edward Island	0
+Corporate Debt	Principe and Sao Tome	0
+Corporate Debt	Puerto Rico	0
+Corporate Debt	Qatar	0
+Corporate Debt	Reunion	0
+Corporate Debt	Romania	0
+Corporate Debt	Russia	0
+Corporate Debt	Rwanda	0
+Corporate Debt	Saint Kitts and Nevis	0
+Corporate Debt	Saint Lucia	0
+Corporate Debt	Samoa	0
+Corporate Debt	San Marino	0
+Corporate Debt	Saskatchewan	0
+Corporate Debt	Saudi Arabia	0
+Corporate Debt	Scotland	0
+Corporate Debt	Senegal	0
+Corporate Debt	Serbia	0
+Corporate Debt	Seychelles	0
+Corporate Debt	Sierra Leone	0
+Corporate Debt	Singapore	0
+Corporate Debt	Slovakia	0
+Corporate Debt	Slovenia	0
+Corporate Debt	Solomon Islands	0
+Corporate Debt	Somalia	0
+Corporate Debt	South Africa	0
+Corporate Debt	South Korea	1
+Corporate Debt	Spain	0
+Corporate Debt	Sri Lanka	0
+Corporate Debt	St. Helena	0
+Corporate Debt	St. Kitts and Nevis	0
+Corporate Debt	St. Lucia	0
+Corporate Debt	St. Pierre and Miquelon	0
+Corporate Debt	St. Vincent and the Grenadines	0
+Corporate Debt	Sudan	0
+Corporate Debt	Suriname	0
+Corporate Debt	Svalbard and Jan Mayen	0
+Corporate Debt	Swaziland	0
+Corporate Debt	Sweden	0
+Corporate Debt	Switzerland	0
+Corporate Debt	Syria	0
+Corporate Debt	Taiwan	0
+Corporate Debt	Tajikistan	0
+Corporate Debt	Tanzania	0
+Corporate Debt	Thailand	0
+Corporate Debt	Timor Leste	0
+Corporate Debt	Togo	0
+Corporate Debt	Tonga	0
+Corporate Debt	Trinidad and Tobago	0
+Corporate Debt	Tunisia	0
+Corporate Debt	Turkey	0
+Corporate Debt	Turkmenistan	0
+Corporate Debt	Turks and Caicos Islands	0
+Corporate Debt	Tuvalu	0
+Corporate Debt	U.S. Virgin Islands	0
+Corporate Debt	Uganda	0
+Corporate Debt	Ukraine	0
+Corporate Debt	United Arab Emirates	0
+Corporate Debt	United Kingdom	24
+Corporate Debt	United States	92
+Corporate Debt	Uruguay	0
+Corporate Debt	Uzbekistan	0
+Corporate Debt	Vanuatu	0
+Corporate Debt	Vatican City	0
+Corporate Debt	Venezuela	0
+Corporate Debt	Vietnam	0
+Corporate Debt	Wales	0
+Corporate Debt	Wallis and Futuna	0
+Corporate Debt	Western Sahara	0
+Corporate Debt	Yemen	0
+Corporate Debt	Zambia	0
+Corporate Debt	Zimbabwe	0
+Derivatives Markets	Abu Dhabi	0
+Derivatives Markets	Afghanistan	0
+Derivatives Markets	Africa	24
+Derivatives Markets	Albania	0
+Derivatives Markets	Algeria	0
+Derivatives Markets	American Samoa	0
+Derivatives Markets	Americas	174
+Derivatives Markets	Andorra	0
+Derivatives Markets	Angola	0
+Derivatives Markets	Anguilla	0
+Derivatives Markets	Antartic Islands	0
+Derivatives Markets	Antigua and Barbuda	0
+Derivatives Markets	Arctic Islands	0
+Derivatives Markets	Argentina	0
+Derivatives Markets	Armenia	0
+Derivatives Markets	Aruba	0
+Derivatives Markets	Asia / Pacific	96
+Derivatives Markets	Atlantic Islands	0
+Derivatives Markets	Australia	20
+Derivatives Markets	Austria	0
+Derivatives Markets	Azerbaijan	0
+Derivatives Markets	Bahamas	0
+Derivatives Markets	Bahrain	0
+Derivatives Markets	Bangladesh	0
+Derivatives Markets	Barbados	0
+Derivatives Markets	Belarus	0
+Derivatives Markets	Belgium	0
+Derivatives Markets	Belize	0
+Derivatives Markets	Benin	0
+Derivatives Markets	Bermuda	0
+Derivatives Markets	Bhutan	0
+Derivatives Markets	Bolivia	0
+Derivatives Markets	Bosnia and Herzegovina	0
+Derivatives Markets	Botswana	0
+Derivatives Markets	Brazil	0
+Derivatives Markets	British Virgin Islands	0
+Derivatives Markets	Brunei	0
+Derivatives Markets	Bulgaria	0
+Derivatives Markets	Burkina Faso	0
+Derivatives Markets	Burundi	0
+Derivatives Markets	Cambodia	0
+Derivatives Markets	Cameroon	0
+Derivatives Markets	Canada	45
+Derivatives Markets	Cape Verde	0
+Derivatives Markets	Cayman Islands	0
+Derivatives Markets	Central African Republic	12
+Derivatives Markets	Chad	0
+Derivatives Markets	Chile	0
+Derivatives Markets	China	90
+Derivatives Markets	Colombia	0
+Derivatives Markets	Comoros	0
+Derivatives Markets	Cook Islands	0
+Derivatives Markets	Costa Rica	0
+Derivatives Markets	Croatia	0
+Derivatives Markets	Cuba	0
+Derivatives Markets	Cyprus	4
+Derivatives Markets	Czech Republic	0
+Derivatives Markets	Democratic Republic of Congo	0
+Derivatives Markets	Democratic Republic Of Congo	0
+Derivatives Markets	Denmark	0
+Derivatives Markets	Djibouti	0
+Derivatives Markets	Dominica	0
+Derivatives Markets	Dominican Republic	0
+Derivatives Markets	Dubai	0
+Derivatives Markets	Ecuador	0
+Derivatives Markets	Egypt	0
+Derivatives Markets	El Salvador	0
+Derivatives Markets	England	12
+Derivatives Markets	Equatorial Guinea	0
+Derivatives Markets	Eritrea	0
+Derivatives Markets	Estonia	0
+Derivatives Markets	Ethiopia	0
+Derivatives Markets	Europe	111
+Derivatives Markets	Falkland Islands	0
+Derivatives Markets	Faroe Islands	0
+Derivatives Markets	Fiji	0
+Derivatives Markets	Finland	0
+Derivatives Markets	France	0
+Derivatives Markets	French Guiana	0
+Derivatives Markets	French Polynesia	0
+Derivatives Markets	Gabon	0
+Derivatives Markets	Gambia	0
+Derivatives Markets	Georgia CIS	0
+Derivatives Markets	Germany	12
+Derivatives Markets	Ghana	0
+Derivatives Markets	Gibraltar	0
+Derivatives Markets	Greece	1
+Derivatives Markets	Greenland	0
+Derivatives Markets	Grenada	0
+Derivatives Markets	Guadeloupe	0
+Derivatives Markets	Guam	0
+Derivatives Markets	Guatemala	0
+Derivatives Markets	Guernsey	0
+Derivatives Markets	Guinea	0
+Derivatives Markets	Guinea Republic	0
+Derivatives Markets	Guinea-Bissau	0
+Derivatives Markets	Guyana	0
+Derivatives Markets	Haiti	0
+Derivatives Markets	Honduras	0
+Derivatives Markets	Hungary	0
+Derivatives Markets	Iceland	0
+Derivatives Markets	India	0
+Derivatives Markets	Indian Ocean Islands	0
+Derivatives Markets	Indonesia	0
+Derivatives Markets	Iran	0
+Derivatives Markets	Iraq	0
+Derivatives Markets	Ireland	0
+Derivatives Markets	Isle of Man	0
+Derivatives Markets	Israel	0
+Derivatives Markets	Italy	0
+Derivatives Markets	Ivory Coast	0
+Derivatives Markets	Jamaica	0
+Derivatives Markets	Japan	2
+Derivatives Markets	Jersey	0
+Derivatives Markets	Jordan	0
+Derivatives Markets	Kazakhstan	0
+Derivatives Markets	Kenya	0
+Derivatives Markets	Kiribati	0
+Derivatives Markets	Kosovo	0
+Derivatives Markets	Kuwait	0
+Derivatives Markets	Kyrgyzstan	0
+Derivatives Markets	Laos	0
+Derivatives Markets	Latvia	0
+Derivatives Markets	Lebanon	0
+Derivatives Markets	Lesotho	0
+Derivatives Markets	Liberia	0
+Derivatives Markets	Libya	0
+Derivatives Markets	Liechtenstein	0
+Derivatives Markets	Lithuania	0
+Derivatives Markets	Luxembourg	0
+Derivatives Markets	Macau	0
+Derivatives Markets	Macedonia	0
+Derivatives Markets	Madagascar	0
+Derivatives Markets	Malawi	0
+Derivatives Markets	Malaysia	0
+Derivatives Markets	Maldives Islands	0
+Derivatives Markets	Mali	0
+Derivatives Markets	Malta	0
+Derivatives Markets	Manitoba	0
+Derivatives Markets	Marshall Islands	0
+Derivatives Markets	Martinique	0
+Derivatives Markets	Mauritania	0
+Derivatives Markets	Mauritius	0
+Derivatives Markets	Mexico	0
+Derivatives Markets	Micronesia	0
+Derivatives Markets	Mideast	0
+Derivatives Markets	Moldova	0
+Derivatives Markets	Monaco	0
+Derivatives Markets	Mongolia	0
+Derivatives Markets	Montenegro	0
+Derivatives Markets	Montserrat	0
+Derivatives Markets	Morocco	0
+Derivatives Markets	Mozambique	0
+Derivatives Markets	Myanmar	0
+Derivatives Markets	Namibia	0
+Derivatives Markets	Nauru	0
+Derivatives Markets	Nepal	0
+Derivatives Markets	Netherlands	0
+Derivatives Markets	Netherlands Antilles	0
+Derivatives Markets	New Caledonia	0
+Derivatives Markets	New Zealand	24
+Derivatives Markets	Nicaragua	0
+Derivatives Markets	Niger	0
+Derivatives Markets	Nigeria	0
+Derivatives Markets	Niue	0
+Derivatives Markets	Norfolk Island	0
+Derivatives Markets	North Korea	0
+Derivatives Markets	Northern Ireland	0
+Derivatives Markets	Northern Mariana Islands	0
+Derivatives Markets	Norway	0
+Derivatives Markets	Oman	0
+Derivatives Markets	Pacific Islands	0
+Derivatives Markets	Pakistan	0
+Derivatives Markets	Palau	0
+Derivatives Markets	Palestinian Territories	0
+Derivatives Markets	Panama	0
+Derivatives Markets	Papua New Guinea	0
+Derivatives Markets	Paraguay	0
+Derivatives Markets	Peoples Republic Of Congo	0
+Derivatives Markets	Peru	0
+Derivatives Markets	Philippines	0
+Derivatives Markets	Pitcairn	0
+Derivatives Markets	Poland	0
+Derivatives Markets	Portugal	0
+Derivatives Markets	Prince Edward Island	0
+Derivatives Markets	Principe and Sao Tome	0
+Derivatives Markets	Puerto Rico	0
+Derivatives Markets	Qatar	0
+Derivatives Markets	Reunion	0
+Derivatives Markets	Romania	0
+Derivatives Markets	Russia	12
+Derivatives Markets	Rwanda	0
+Derivatives Markets	Saint Kitts and Nevis	0
+Derivatives Markets	Saint Lucia	0
+Derivatives Markets	Samoa	0
+Derivatives Markets	San Marino	0
+Derivatives Markets	Saskatchewan	0
+Derivatives Markets	Saudi Arabia	0
+Derivatives Markets	Scotland	0
+Derivatives Markets	Senegal	0
+Derivatives Markets	Serbia	0
+Derivatives Markets	Seychelles	0
+Derivatives Markets	Sierra Leone	0
+Derivatives Markets	Singapore	0
+Derivatives Markets	Slovakia	0
+Derivatives Markets	Slovenia	0
+Derivatives Markets	Solomon Islands	0
+Derivatives Markets	Somalia	0
+Derivatives Markets	South Africa	24
+Derivatives Markets	South Korea	46
+Derivatives Markets	Spain	0
+Derivatives Markets	Sri Lanka	0
+Derivatives Markets	St. Helena	0
+Derivatives Markets	St. Kitts and Nevis	0
+Derivatives Markets	St. Lucia	0
+Derivatives Markets	St. Pierre and Miquelon	0
+Derivatives Markets	St. Vincent and the Grenadines	0
+Derivatives Markets	Sudan	0
+Derivatives Markets	Suriname	0
+Derivatives Markets	Svalbard and Jan Mayen	0
+Derivatives Markets	Swaziland	0
+Derivatives Markets	Sweden	0
+Derivatives Markets	Switzerland	0
+Derivatives Markets	Syria	0
+Derivatives Markets	Taiwan	0
+Derivatives Markets	Tajikistan	0
+Derivatives Markets	Tanzania	0
+Derivatives Markets	Thailand	12
+Derivatives Markets	Timor Leste	0
+Derivatives Markets	Togo	0
+Derivatives Markets	Tonga	0
+Derivatives Markets	Trinidad and Tobago	0
+Derivatives Markets	Tunisia	0
+Derivatives Markets	Turkey	0
+Derivatives Markets	Turkmenistan	0
+Derivatives Markets	Turks and Caicos Islands	0
+Derivatives Markets	Tuvalu	0
+Derivatives Markets	U.S. Virgin Islands	0
+Derivatives Markets	Uganda	0
+Derivatives Markets	Ukraine	0
+Derivatives Markets	United Arab Emirates	0
+Derivatives Markets	United Kingdom	104
+Derivatives Markets	United States	174
+Derivatives Markets	Uruguay	0
+Derivatives Markets	Uzbekistan	0
+Derivatives Markets	Vanuatu	0
+Derivatives Markets	Vatican City	0
+Derivatives Markets	Venezuela	0
+Derivatives Markets	Vietnam	0
+Derivatives Markets	Wales	0
+Derivatives Markets	Wallis and Futuna	0
+Derivatives Markets	Western Sahara	0
+Derivatives Markets	Yemen	0
+Derivatives Markets	Zambia	0
+Derivatives Markets	Zimbabwe	0
+Emissions	Abu Dhabi	0
+Emissions	Afghanistan	0
+Emissions	Africa	0
+Emissions	Albania	0
+Emissions	Algeria	0
+Emissions	American Samoa	0
+Emissions	Americas	1
+Emissions	Andorra	0
+Emissions	Angola	0
+Emissions	Anguilla	0
+Emissions	Antartic Islands	0
+Emissions	Antigua and Barbuda	0
+Emissions	Arctic Islands	0
+Emissions	Argentina	0
+Emissions	Armenia	0
+Emissions	Aruba	0
+Emissions	Asia / Pacific	1
+Emissions	Atlantic Islands	0
+Emissions	Australia	0
+Emissions	Austria	0
+Emissions	Azerbaijan	0
+Emissions	Bahamas	0
+Emissions	Bahrain	0
+Emissions	Bangladesh	0
+Emissions	Barbados	0
+Emissions	Belarus	0
+Emissions	Belgium	0
+Emissions	Belize	0
+Emissions	Benin	0
+Emissions	Bermuda	0
+Emissions	Bhutan	0
+Emissions	Bolivia	0
+Emissions	Bosnia and Herzegovina	0
+Emissions	Botswana	0
+Emissions	Brazil	0
+Emissions	British Virgin Islands	0
+Emissions	Brunei	0
+Emissions	Bulgaria	0
+Emissions	Burkina Faso	0
+Emissions	Burundi	0
+Emissions	Cambodia	0
+Emissions	Cameroon	0
+Emissions	Canada	0
+Emissions	Cape Verde	0
+Emissions	Cayman Islands	0
+Emissions	Central African Republic	0
+Emissions	Chad	0
+Emissions	Chile	0
+Emissions	China	0
+Emissions	Colombia	0
+Emissions	Comoros	0
+Emissions	Cook Islands	0
+Emissions	Costa Rica	0
+Emissions	Croatia	0
+Emissions	Cuba	0
+Emissions	Cyprus	0
+Emissions	Czech Republic	0
+Emissions	Democratic Republic of Congo	0
+Emissions	Democratic Republic Of Congo	0
+Emissions	Denmark	0
+Emissions	Djibouti	0
+Emissions	Dominica	0
+Emissions	Dominican Republic	0
+Emissions	Dubai	0
+Emissions	Ecuador	0
+Emissions	Egypt	0
+Emissions	El Salvador	0
+Emissions	England	0
+Emissions	Equatorial Guinea	0
+Emissions	Eritrea	0
+Emissions	Estonia	0
+Emissions	Ethiopia	0
+Emissions	Europe	0
+Emissions	Falkland Islands	0
+Emissions	Faroe Islands	0
+Emissions	Fiji	0
+Emissions	Finland	0
+Emissions	France	0
+Emissions	French Guiana	0
+Emissions	French Polynesia	0
+Emissions	Gabon	0
+Emissions	Gambia	0
+Emissions	Georgia CIS	0
+Emissions	Germany	0
+Emissions	Ghana	0
+Emissions	Gibraltar	0
+Emissions	Greece	0
+Emissions	Greenland	0
+Emissions	Grenada	0
+Emissions	Guadeloupe	0
+Emissions	Guam	0
+Emissions	Guatemala	0
+Emissions	Guernsey	0
+Emissions	Guinea	0
+Emissions	Guinea Republic	0
+Emissions	Guinea-Bissau	0
+Emissions	Guyana	0
+Emissions	Haiti	0
+Emissions	Honduras	0
+Emissions	Hungary	0
+Emissions	Iceland	0
+Emissions	India	0
+Emissions	Indian Ocean Islands	0
+Emissions	Indonesia	0
+Emissions	Iran	0
+Emissions	Iraq	0
+Emissions	Ireland	0
+Emissions	Isle of Man	0
+Emissions	Israel	0
+Emissions	Italy	0
+Emissions	Ivory Coast	0
+Emissions	Jamaica	0
+Emissions	Japan	0
+Emissions	Jersey	0
+Emissions	Jordan	0
+Emissions	Kazakhstan	0
+Emissions	Kenya	0
+Emissions	Kiribati	0
+Emissions	Kosovo	0
+Emissions	Kuwait	0
+Emissions	Kyrgyzstan	0
+Emissions	Laos	0
+Emissions	Latvia	0
+Emissions	Lebanon	0
+Emissions	Lesotho	0
+Emissions	Liberia	0
+Emissions	Libya	0
+Emissions	Liechtenstein	0
+Emissions	Lithuania	0
+Emissions	Luxembourg	0
+Emissions	Macau	0
+Emissions	Macedonia	0
+Emissions	Madagascar	0
+Emissions	Malawi	0
+Emissions	Malaysia	1
+Emissions	Maldives Islands	0
+Emissions	Mali	0
+Emissions	Malta	0
+Emissions	Manitoba	0
+Emissions	Marshall Islands	0
+Emissions	Martinique	0
+Emissions	Mauritania	0
+Emissions	Mauritius	0
+Emissions	Mexico	0
+Emissions	Micronesia	0
+Emissions	Mideast	0
+Emissions	Moldova	0
+Emissions	Monaco	0
+Emissions	Mongolia	0
+Emissions	Montenegro	0
+Emissions	Montserrat	0
+Emissions	Morocco	0
+Emissions	Mozambique	0
+Emissions	Myanmar	0
+Emissions	Namibia	0
+Emissions	Nauru	0
+Emissions	Nepal	0
+Emissions	Netherlands	0
+Emissions	Netherlands Antilles	0
+Emissions	New Caledonia	0
+Emissions	New Zealand	0
+Emissions	Nicaragua	0
+Emissions	Niger	0
+Emissions	Nigeria	0
+Emissions	Niue	0
+Emissions	Norfolk Island	0
+Emissions	North Korea	0
+Emissions	Northern Ireland	0
+Emissions	Northern Mariana Islands	0
+Emissions	Norway	0
+Emissions	Oman	0
+Emissions	Pacific Islands	0
+Emissions	Pakistan	0
+Emissions	Palau	0
+Emissions	Palestinian Territories	0
+Emissions	Panama	0
+Emissions	Papua New Guinea	0
+Emissions	Paraguay	0
+Emissions	Peoples Republic Of Congo	0
+Emissions	Peru	0
+Emissions	Philippines	0
+Emissions	Pitcairn	0
+Emissions	Poland	0
+Emissions	Portugal	0
+Emissions	Prince Edward Island	0
+Emissions	Principe and Sao Tome	0
+Emissions	Puerto Rico	0
+Emissions	Qatar	0
+Emissions	Reunion	0
+Emissions	Romania	0
+Emissions	Russia	0
+Emissions	Rwanda	0
+Emissions	Saint Kitts and Nevis	0
+Emissions	Saint Lucia	0
+Emissions	Samoa	0
+Emissions	San Marino	0
+Emissions	Saskatchewan	0
+Emissions	Saudi Arabia	0
+Emissions	Scotland	0
+Emissions	Senegal	0
+Emissions	Serbia	0
+Emissions	Seychelles	0
+Emissions	Sierra Leone	0
+Emissions	Singapore	0
+Emissions	Slovakia	0
+Emissions	Slovenia	0
+Emissions	Solomon Islands	0
+Emissions	Somalia	0
+Emissions	South Africa	0
+Emissions	South Korea	0
+Emissions	Spain	0
+Emissions	Sri Lanka	0
+Emissions	St. Helena	0
+Emissions	St. Kitts and Nevis	0
+Emissions	St. Lucia	0
+Emissions	St. Pierre and Miquelon	0
+Emissions	St. Vincent and the Grenadines	0
+Emissions	Sudan	0
+Emissions	Suriname	0
+Emissions	Svalbard and Jan Mayen	0
+Emissions	Swaziland	0
+Emissions	Sweden	0
+Emissions	Switzerland	0
+Emissions	Syria	0
+Emissions	Taiwan	0
+Emissions	Tajikistan	0
+Emissions	Tanzania	0
+Emissions	Thailand	0
+Emissions	Timor Leste	0
+Emissions	Togo	0
+Emissions	Tonga	0
+Emissions	Trinidad and Tobago	0
+Emissions	Tunisia	0
+Emissions	Turkey	0
+Emissions	Turkmenistan	0
+Emissions	Turks and Caicos Islands	0
+Emissions	Tuvalu	0
+Emissions	U.S. Virgin Islands	0
+Emissions	Uganda	0
+Emissions	Ukraine	0
+Emissions	United Arab Emirates	0
+Emissions	United Kingdom	0
+Emissions	United States	1
+Emissions	Uruguay	0
+Emissions	Uzbekistan	0
+Emissions	Vanuatu	0
+Emissions	Vatican City	0
+Emissions	Venezuela	0
+Emissions	Vietnam	0
+Emissions	Wales	0
+Emissions	Wallis and Futuna	0
+Emissions	Western Sahara	0
+Emissions	Yemen	0
+Emissions	Zambia	0
+Emissions	Zimbabwe	0
+Energy Markets	Abu Dhabi	0
+Energy Markets	Afghanistan	0
+Energy Markets	Africa	9
+Energy Markets	Albania	0
+Energy Markets	Algeria	2
+Energy Markets	American Samoa	0
+Energy Markets	Americas	169
+Energy Markets	Andorra	0
+Energy Markets	Angola	0
+Energy Markets	Anguilla	0
+Energy Markets	Antartic Islands	0
+Energy Markets	Antigua and Barbuda	0
+Energy Markets	Arctic Islands	0
+Energy Markets	Argentina	0
+Energy Markets	Armenia	0
+Energy Markets	Aruba	0
+Energy Markets	Asia / Pacific	30
+Energy Markets	Atlantic Islands	0
+Energy Markets	Australia	2
+Energy Markets	Austria	0
+Energy Markets	Azerbaijan	0
+Energy Markets	Bahamas	0
+Energy Markets	Bahrain	0
+Energy Markets	Bangladesh	0
+Energy Markets	Barbados	0
+Energy Markets	Belarus	0
+Energy Markets	Belgium	0
+Energy Markets	Belize	0
+Energy Markets	Benin	0
+Energy Markets	Bermuda	0
+Energy Markets	Bhutan	0
+Energy Markets	Bolivia	0
+Energy Markets	Bosnia and Herzegovina	0
+Energy Markets	Botswana	0
+Energy Markets	Brazil	1
+Energy Markets	British Virgin Islands	0
+Energy Markets	Brunei	0
+Energy Markets	Bulgaria	0
+Energy Markets	Burkina Faso	0
+Energy Markets	Burundi	0
+Energy Markets	Cambodia	0
+Energy Markets	Cameroon	0
+Energy Markets	Canada	4
+Energy Markets	Cape Verde	0
+Energy Markets	Cayman Islands	0
+Energy Markets	Central African Republic	0
+Energy Markets	Chad	0
+Energy Markets	Chile	0
+Energy Markets	China	16
+Energy Markets	Colombia	0
+Energy Markets	Comoros	0
+Energy Markets	Cook Islands	0
+Energy Markets	Costa Rica	0
+Energy Markets	Croatia	0
+Energy Markets	Cuba	0
+Energy Markets	Cyprus	0
+Energy Markets	Czech Republic	0
+Energy Markets	Democratic Republic of Congo	0
+Energy Markets	Democratic Republic Of Congo	0
+Energy Markets	Denmark	0
+Energy Markets	Djibouti	0
+Energy Markets	Dominica	0
+Energy Markets	Dominican Republic	0
+Energy Markets	Dubai	0
+Energy Markets	Ecuador	0
+Energy Markets	Egypt	0
+Energy Markets	El Salvador	0
+Energy Markets	England	0
+Energy Markets	Equatorial Guinea	0
+Energy Markets	Eritrea	0
+Energy Markets	Estonia	0
+Energy Markets	Ethiopia	0
+Energy Markets	Europe	35
+Energy Markets	Falkland Islands	0
+Energy Markets	Faroe Islands	0
+Energy Markets	Fiji	0
+Energy Markets	Finland	0
+Energy Markets	France	1
+Energy Markets	French Guiana	0
+Energy Markets	French Polynesia	0
+Energy Markets	Gabon	0
+Energy Markets	Gambia	0
+Energy Markets	Georgia CIS	0
+Energy Markets	Germany	0
+Energy Markets	Ghana	0
+Energy Markets	Gibraltar	0
+Energy Markets	Greece	0
+Energy Markets	Greenland	0
+Energy Markets	Grenada	0
+Energy Markets	Guadeloupe	0
+Energy Markets	Guam	0
+Energy Markets	Guatemala	0
+Energy Markets	Guernsey	0
+Energy Markets	Guinea	1
+Energy Markets	Guinea Republic	1
+Energy Markets	Guinea-Bissau	0
+Energy Markets	Guyana	0
+Energy Markets	Haiti	0
+Energy Markets	Honduras	0
+Energy Markets	Hungary	0
+Energy Markets	Iceland	0
+Energy Markets	India	1
+Energy Markets	Indian Ocean Islands	0
+Energy Markets	Indonesia	0
+Energy Markets	Iran	7
+Energy Markets	Iraq	7
+Energy Markets	Ireland	0
+Energy Markets	Isle of Man	0
+Energy Markets	Israel	0
+Energy Markets	Italy	0
+Energy Markets	Ivory Coast	0
+Energy Markets	Jamaica	0
+Energy Markets	Japan	6
+Energy Markets	Jersey	0
+Energy Markets	Jordan	0
+Energy Markets	Kazakhstan	0
+Energy Markets	Kenya	0
+Energy Markets	Kiribati	0
+Energy Markets	Kosovo	0
+Energy Markets	Kuwait	0
+Energy Markets	Kyrgyzstan	0
+Energy Markets	Laos	0
+Energy Markets	Latvia	0
+Energy Markets	Lebanon	0
+Energy Markets	Lesotho	0
+Energy Markets	Liberia	0
+Energy Markets	Libya	6
+Energy Markets	Liechtenstein	0
+Energy Markets	Lithuania	0
+Energy Markets	Luxembourg	0
+Energy Markets	Macau	0
+Energy Markets	Macedonia	0
+Energy Markets	Madagascar	0
+Energy Markets	Malawi	0
+Energy Markets	Malaysia	2
+Energy Markets	Maldives Islands	0
+Energy Markets	Mali	1
+Energy Markets	Malta	0
+Energy Markets	Manitoba	0
+Energy Markets	Marshall Islands	0
+Energy Markets	Martinique	0
+Energy Markets	Mauritania	0
+Energy Markets	Mauritius	0
+Energy Markets	Mexico	0
+Energy Markets	Micronesia	0
+Energy Markets	Mideast	16
+Energy Markets	Moldova	0
+Energy Markets	Monaco	0
+Energy Markets	Mongolia	0
+Energy Markets	Montenegro	0
+Energy Markets	Montserrat	0
+Energy Markets	Morocco	0
+Energy Markets	Mozambique	0
+Energy Markets	Myanmar	0
+Energy Markets	Namibia	0
+Energy Markets	Nauru	0
+Energy Markets	Nepal	0
+Energy Markets	Netherlands	2
+Energy Markets	Netherlands Antilles	0
+Energy Markets	New Caledonia	0
+Energy Markets	New Zealand	0
+Energy Markets	Nicaragua	0
+Energy Markets	Niger	0
+Energy Markets	Nigeria	1
+Energy Markets	Niue	0
+Energy Markets	Norfolk Island	0
+Energy Markets	North Korea	2
+Energy Markets	Northern Ireland	0
+Energy Markets	Northern Mariana Islands	0
+Energy Markets	Norway	0
+Energy Markets	Oman	0
+Energy Markets	Pacific Islands	0
+Energy Markets	Pakistan	1
+Energy Markets	Palau	0
+Energy Markets	Palestinian Territories	0
+Energy Markets	Panama	0
+Energy Markets	Papua New Guinea	0
+Energy Markets	Paraguay	0
+Energy Markets	Peoples Republic Of Congo	0
+Energy Markets	Peru	0
+Energy Markets	Philippines	0
+Energy Markets	Pitcairn	0
+Energy Markets	Poland	0
+Energy Markets	Portugal	0

@@ -1,11 +1,22 @@
 :includes:
   -
-    :text: "Fixed Income Markets" 
-    :type: marketname 
+    :text: "Russia"
+    :type: "regionname"
   -
-    :text: "Pacific"
-    :type: regionname
-:mode: All
-:order: Date
-:before_date: '03/21/2013'
-:after_date: '03/14/2013'
+    :text: "Russia"
+    :type: "location"
+:requires:
+  -
+    :id:  "400774"
+    :type: "care"
+  -
+    :id: "400795"
+    :type: "care"
+  -
+    :id: "400265"
+    :type: "care"
+  -
+    :id: "400266"
+    :type: "care"
+:mode: Any 
+:order: date

@@ -1,0 +1,442 @@
+Agriculture	Abu Dhabi	0
+Agriculture	Afghanistan	0
+Agriculture	Africa	0
+Agriculture	Albania	0
+Agriculture	Algeria	0
+Agriculture	American Samoa	0
+Agriculture	Americas	0
+Agriculture	Andorra	0
+Agriculture	Angola	0
+Agriculture	Anguilla	0
+Agriculture	Antartic Islands	0
+Agriculture	Antigua and Barbuda	0
+Agriculture	Arctic Islands	0
+Agriculture	Argentina	0
+Agriculture	Armenia	0
+Agriculture	Aruba	0
+Agriculture	Asia / Pacific	0
+Agriculture	Atlantic Islands	0
+Agriculture	Australia	0
+Agriculture	Austria	0
+Agriculture	Azerbaijan	0
+Agriculture	Bahamas	0
+Agriculture	Bahrain	0
+Agriculture	Bangladesh	0
+Agriculture	Barbados	0
+Agriculture	Belarus	0
+Agriculture	Belgium	0
+Agriculture	Belize	0
+Agriculture	Benin	0
+Agriculture	Bermuda	0
+Agriculture	Bhutan	0
+Agriculture	Bolivia	0
+Agriculture	Bosnia and Herzegovina	0
+Agriculture	Botswana	0
+Agriculture	Brazil	0
+Agriculture	British Virgin Islands	0
+Agriculture	Brunei	0
+Agriculture	Bulgaria	0
+Agriculture	Burkina Faso	0
+Agriculture	Burundi	0
+Agriculture	Cambodia	0
+Agriculture	Cameroon	0
+Agriculture	Canada	0
+Agriculture	Cape Verde	0
+Agriculture	Cayman Islands	0
+Agriculture	Central African Republic	0
+Agriculture	Chad	0
+Agriculture	Chile	0
+Agriculture	China	0
+Agriculture	Colombia	0
+Agriculture	Comoros	0
+Agriculture	Cook Islands	0
+Agriculture	Costa Rica	0
+Agriculture	Croatia	0
+Agriculture	Cuba	0
+Agriculture	Cyprus	0
+Agriculture	Czech Republic	0
+Agriculture	Democratic Republic of Congo	0
+Agriculture	Democratic Republic Of Congo	0
+Agriculture	Denmark	0
+Agriculture	Djibouti	0
+Agriculture	Dominica	0
+Agriculture	Dominican Republic	0
+Agriculture	Dubai	0
+Agriculture	Ecuador	0
+Agriculture	Egypt	0
+Agriculture	El Salvador	0
+Agriculture	England	0
+Agriculture	Equatorial Guinea	0
+Agriculture	Eritrea	0
+Agriculture	Estonia	0
+Agriculture	Ethiopia	0
+Agriculture	Europe	0
+Agriculture	Falkland Islands	0
+Agriculture	Faroe Islands	0
+Agriculture	Fiji	0
+Agriculture	Finland	0
+Agriculture	France	0
+Agriculture	French Guiana	0
+Agriculture	French Polynesia	0
+Agriculture	Gabon	0
+Agriculture	Gambia	0
+Agriculture	Georgia CIS	0
+Agriculture	Germany	0
+Agriculture	Ghana	0
+Agriculture	Gibraltar	0
+Agriculture	Greece	0
+Agriculture	Greenland	0
+Agriculture	Grenada	0
+Agriculture	Guadeloupe	0
+Agriculture	Guam	0
+Agriculture	Guatemala	0
+Agriculture	Guernsey	0
+Agriculture	Guinea	0
+Agriculture	Guinea Republic	0
+Agriculture	Guinea-Bissau	0
+Agriculture	Guyana	0
+Agriculture	Haiti	0
+Agriculture	Honduras	0
+Agriculture	Hungary	0
+Agriculture	Iceland	0
+Agriculture	India	0
+Agriculture	Indian Ocean Islands	0
+Agriculture	Indonesia	0
+Agriculture	Iran	0
+Agriculture	Iraq	0
+Agriculture	Ireland	0
+Agriculture	Isle of Man	0
+Agriculture	Israel	0
+Agriculture	Italy	0
+Agriculture	Ivory Coast	0
+Agriculture	Jamaica	0
+Agriculture	Japan	0
+Agriculture	Jersey	0
+Agriculture	Jordan	0
+Agriculture	Kazakhstan	0
+Agriculture	Kenya	0
+Agriculture	Kiribati	0
+Agriculture	Kosovo	0
+Agriculture	Kuwait	0
+Agriculture	Kyrgyzstan	0
+Agriculture	Laos	0
+Agriculture	Latvia	0
+Agriculture	Lebanon	0
+Agriculture	Lesotho	0
+Agriculture	Liberia	0
+Agriculture	Libya	0
+Agriculture	Liechtenstein	0
+Agriculture	Lithuania	0
+Agriculture	Luxembourg	0
+Agriculture	Macau	0
+Agriculture	Macedonia	0
+Agriculture	Madagascar	0
+Agriculture	Malawi	0
+Agriculture	Malaysia	0
+Agriculture	Maldives Islands	0
+Agriculture	Mali	0
+Agriculture	Malta	0
+Agriculture	Manitoba	0
+Agriculture	Marshall Islands	0
+Agriculture	Martinique	0
+Agriculture	Mauritania	0
+Agriculture	Mauritius	0
+Agriculture	Mexico	0
+Agriculture	Micronesia	0
+Agriculture	Mideast	0
+Agriculture	Moldova	0
+Agriculture	Monaco	0
+Agriculture	Mongolia	0
+Agriculture	Montenegro	0
+Agriculture	Montserrat	0
+Agriculture	Morocco	0
+Agriculture	Mozambique	0
+Agriculture	Myanmar	0
+Agriculture	Namibia	0
+Agriculture	Nauru	0
+Agriculture	Nepal	0
+Agriculture	Netherlands	0
+Agriculture	Netherlands Antilles	0
+Agriculture	New Caledonia	0
+Agriculture	New Zealand	0
+Agriculture	Nicaragua	0
+Agriculture	Niger	0
+Agriculture	Nigeria	0
+Agriculture	Niue	0
+Agriculture	Norfolk Island	0
+Agriculture	North Korea	0
+Agriculture	Northern Ireland	0
+Agriculture	Northern Mariana Islands	0
+Agriculture	Norway	0
+Agriculture	Oman	0
+Agriculture	Pacific Islands	0
+Agriculture	Pakistan	0
+Agriculture	Palau	0
+Agriculture	Palestinian Territories	0
+Agriculture	Panama	0
+Agriculture	Papua New Guinea	0
+Agriculture	Paraguay	0
+Agriculture	Peoples Republic Of Congo	0
+Agriculture	Peru	0
+Agriculture	Philippines	0
+Agriculture	Pitcairn	0
+Agriculture	Poland	0
+Agriculture	Portugal	0
+Agriculture	Prince Edward Island	0
+Agriculture	Principe and Sao Tome	0
+Agriculture	Puerto Rico	0
+Agriculture	Qatar	0
+Agriculture	Reunion	0
+Agriculture	Romania	0
+Agriculture	Russia	0
+Agriculture	Rwanda	0
+Agriculture	Saint Kitts and Nevis	0
+Agriculture	Saint Lucia	0
+Agriculture	Samoa	0
+Agriculture	San Marino	0
+Agriculture	Saskatchewan	0
+Agriculture	Saudi Arabia	0
+Agriculture	Scotland	0
+Agriculture	Senegal	0
+Agriculture	Serbia	0
+Agriculture	Seychelles	0
+Agriculture	Sierra Leone	0
+Agriculture	Singapore	0
+Agriculture	Slovakia	0
+Agriculture	Slovenia	0
+Agriculture	Solomon Islands	0
+Agriculture	Somalia	0
+Agriculture	South Africa	0
+Agriculture	South Korea	0
+Agriculture	Spain	0
+Agriculture	Sri Lanka	0
+Agriculture	St. Helena	0
+Agriculture	St. Kitts and Nevis	0
+Agriculture	St. Lucia	0
+Agriculture	St. Pierre and Miquelon	0
+Agriculture	St. Vincent and the Grenadines	0
+Agriculture	Sudan	0
+Agriculture	Suriname	0
+Agriculture	Svalbard and Jan Mayen	0
+Agriculture	Swaziland	0
+Agriculture	Sweden	0
+Agriculture	Switzerland	0
+Agriculture	Syria	0
+Agriculture	Taiwan	0
+Agriculture	Tajikistan	0
+Agriculture	Tanzania	0
+Agriculture	Thailand	0
+Agriculture	Timor Leste	0
+Agriculture	Togo	0
+Agriculture	Tonga	0
+Agriculture	Trinidad and Tobago	0
+Agriculture	Tunisia	0
+Agriculture	Turkey	0
+Agriculture	Turkmenistan	0
+Agriculture	Turks and Caicos Islands	0
+Agriculture	Tuvalu	0
+Agriculture	U.S. Virgin Islands	0
+Agriculture	Uganda	0
+Agriculture	Ukraine	0
+Agriculture	United Arab Emirates	0
+Agriculture	United Kingdom	0
+Agriculture	United States	0
+Agriculture	Uruguay	0
+Agriculture	Uzbekistan	0
+Agriculture	Vanuatu	0
+Agriculture	Vatican City	0
+Agriculture	Venezuela	0
+Agriculture	Vietnam	0
+Agriculture	Wales	0
+Agriculture	Wallis and Futuna	0
+Agriculture	Western Sahara	0
+Agriculture	Yemen	0
+Agriculture	Zambia	0
+Agriculture	Zimbabwe	0
+Asset-Backed Securities	Abu Dhabi	0
+Asset-Backed Securities	Afghanistan	0
+Asset-Backed Securities	Africa	0
+Asset-Backed Securities	Albania	0
+Asset-Backed Securities	Algeria	0
+Asset-Backed Securities	American Samoa	0
+Asset-Backed Securities	Americas	1
+Asset-Backed Securities	Andorra	0
+Asset-Backed Securities	Angola	0
+Asset-Backed Securities	Anguilla	0
+Asset-Backed Securities	Antartic Islands	0
+Asset-Backed Securities	Antigua and Barbuda	0
+Asset-Backed Securities	Arctic Islands	0
+Asset-Backed Securities	Argentina	0
+Asset-Backed Securities	Armenia	0
+Asset-Backed Securities	Aruba	0
+Asset-Backed Securities	Asia / Pacific	0
+Asset-Backed Securities	Atlantic Islands	0
+Asset-Backed Securities	Australia	0
+Asset-Backed Securities	Austria	0
+Asset-Backed Securities	Azerbaijan	0
+Asset-Backed Securities	Bahamas	0
+Asset-Backed Securities	Bahrain	0
+Asset-Backed Securities	Bangladesh	0
+Asset-Backed Securities	Barbados	0
+Asset-Backed Securities	Belarus	0
+Asset-Backed Securities	Belgium	0
+Asset-Backed Securities	Belize	0
+Asset-Backed Securities	Benin	0
+Asset-Backed Securities	Bermuda	0
+Asset-Backed Securities	Bhutan	0
+Asset-Backed Securities	Bolivia	0
+Asset-Backed Securities	Bosnia and Herzegovina	0
+Asset-Backed Securities	Botswana	0
+Asset-Backed Securities	Brazil	0
+Asset-Backed Securities	British Virgin Islands	0
+Asset-Backed Securities	Brunei	0
+Asset-Backed Securities	Bulgaria	0
+Asset-Backed Securities	Burkina Faso	0
+Asset-Backed Securities	Burundi	0
+Asset-Backed Securities	Cambodia	0
+Asset-Backed Securities	Cameroon	0
+Asset-Backed Securities	Canada	0
+Asset-Backed Securities	Cape Verde	0
+Asset-Backed Securities	Cayman Islands	0
+Asset-Backed Securities	Central African Republic	0
+Asset-Backed Securities	Chad	0
+Asset-Backed Securities	Chile	0
+Asset-Backed Securities	China	0
+Asset-Backed Securities	Colombia	0
+Asset-Backed Securities	Comoros	0
+Asset-Backed Securities	Cook Islands	0
+Asset-Backed Securities	Costa Rica	0
+Asset-Backed Securities	Croatia	0
+Asset-Backed Securities	Cuba	0
+Asset-Backed Securities	Cyprus	0
+Asset-Backed Securities	Czech Republic	0
+Asset-Backed Securities	Democratic Republic of Congo	0
+Asset-Backed Securities	Democratic Republic Of Congo	0
+Asset-Backed Securities	Denmark	0
+Asset-Backed Securities	Djibouti	0
+Asset-Backed Securities	Dominica	0
+Asset-Backed Securities	Dominican Republic	0
+Asset-Backed Securities	Dubai	0
+Asset-Backed Securities	Ecuador	0
+Asset-Backed Securities	Egypt	0
+Asset-Backed Securities	El Salvador	0
+Asset-Backed Securities	England	0
+Asset-Backed Securities	Equatorial Guinea	0
+Asset-Backed Securities	Eritrea	0
+Asset-Backed Securities	Estonia	0
+Asset-Backed Securities	Ethiopia	0
+Asset-Backed Securities	Europe	0
+Asset-Backed Securities	Falkland Islands	0
+Asset-Backed Securities	Faroe Islands	0
+Asset-Backed Securities	Fiji	0
+Asset-Backed Securities	Finland	0
+Asset-Backed Securities	France	0
+Asset-Backed Securities	French Guiana	0
+Asset-Backed Securities	French Polynesia	0
+Asset-Backed Securities	Gabon	0
+Asset-Backed Securities	Gambia	0
+Asset-Backed Securities	Georgia CIS	0
+Asset-Backed Securities	Germany	0
+Asset-Backed Securities	Ghana	0
+Asset-Backed Securities	Gibraltar	0
+Asset-Backed Securities	Greece	0
+Asset-Backed Securities	Greenland	0
+Asset-Backed Securities	Grenada	0
+Asset-Backed Securities	Guadeloupe	0
+Asset-Backed Securities	Guam	0
+Asset-Backed Securities	Guatemala	0
+Asset-Backed Securities	Guernsey	0
+Asset-Backed Securities	Guinea	0
+Asset-Backed Securities	Guinea Republic	0
+Asset-Backed Securities	Guinea-Bissau	0
+Asset-Backed Securities	Guyana	0
+Asset-Backed Securities	Haiti	0
+Asset-Backed Securities	Honduras	0
+Asset-Backed Securities	Hungary	0
+Asset-Backed Securities	Iceland	0
+Asset-Backed Securities	India	0
+Asset-Backed Securities	Indian Ocean Islands	0
+Asset-Backed Securities	Indonesia	0
+Asset-Backed Securities	Iran	0
+Asset-Backed Securities	Iraq	0
+Asset-Backed Securities	Ireland	0
+Asset-Backed Securities	Isle of Man	0
+Asset-Backed Securities	Israel	0
+Asset-Backed Securities	Italy	0
+Asset-Backed Securities	Ivory Coast	0
+Asset-Backed Securities	Jamaica	0
+Asset-Backed Securities	Japan	0
+Asset-Backed Securities	Jersey	0
+Asset-Backed Securities	Jordan	0
+Asset-Backed Securities	Kazakhstan	0
+Asset-Backed Securities	Kenya	0
+Asset-Backed Securities	Kiribati	0
+Asset-Backed Securities	Kosovo	0
+Asset-Backed Securities	Kuwait	0
+Asset-Backed Securities	Kyrgyzstan	0
+Asset-Backed Securities	Laos	0
+Asset-Backed Securities	Latvia	0
+Asset-Backed Securities	Lebanon	0
+Asset-Backed Securities	Lesotho	0
+Asset-Backed Securities	Liberia	0
+Asset-Backed Securities	Libya	0
+Asset-Backed Securities	Liechtenstein	0
+Asset-Backed Securities	Lithuania	0
+Asset-Backed Securities	Luxembourg	0
+Asset-Backed Securities	Macau	0
+Asset-Backed Securities	Macedonia	0
+Asset-Backed Securities	Madagascar	0
+Asset-Backed Securities	Malawi	0
+Asset-Backed Securities	Malaysia	0
+Asset-Backed Securities	Maldives Islands	0
+Asset-Backed Securities	Mali	0
+Asset-Backed Securities	Malta	0
+Asset-Backed Securities	Manitoba	0
+Asset-Backed Securities	Marshall Islands	0
+Asset-Backed Securities	Martinique	0
+Asset-Backed Securities	Mauritania	0
+Asset-Backed Securities	Mauritius	0
+Asset-Backed Securities	Mexico	0
+Asset-Backed Securities	Micronesia	0
+Asset-Backed Securities	Mideast	0
+Asset-Backed Securities	Moldova	0
+Asset-Backed Securities	Monaco	0
+Asset-Backed Securities	Mongolia	0
+Asset-Backed Securities	Montenegro	0
+Asset-Backed Securities	Montserrat	0
+Asset-Backed Securities	Morocco	0
+Asset-Backed Securities	Mozambique	0
+Asset-Backed Securities	Myanmar	0
+Asset-Backed Securities	Namibia	0
+Asset-Backed Securities	Nauru	0
+Asset-Backed Securities	Nepal	0
+Asset-Backed Securities	Netherlands	0
+Asset-Backed Securities	Netherlands Antilles	0
+Asset-Backed Securities	New Caledonia	0
+Asset-Backed Securities	New Zealand	0
+Asset-Backed Securities	Nicaragua	0
+Asset-Backed Securities	Niger	0
+Asset-Backed Securities	Nigeria	0
+Asset-Backed Securities	Niue	0
+Asset-Backed Securities	Norfolk Island	0
+Asset-Backed Securities	North Korea	0
+Asset-Backed Securities	Northern Ireland	0
+Asset-Backed Securities	Northern Mariana Islands	0
+Asset-Backed Securities	Norway	0
+Asset-Backed Securities	Oman	0
+Asset-Backed Securities	Pacific Islands	0
+Asset-Backed Securities	Pakistan	0
+Asset-Backed Securities	Palau	0
+Asset-Backed Securities	Palestinian Territories	0
+Asset-Backed Securities	Panama	0
+Asset-Backed Securities	Papua New Guinea	0
+Asset-Backed Securities	Paraguay	0
+Asset-Backed Securities	Peoples Republic Of Congo	0
+Asset-Backed Securities	Peru	0
+Asset-Backed Securities	Philippines	0
+Asset-Backed Securities	Pitcairn	0
+Asset-Backed Securities	Poland	0
+Asset-Backed Securities	Portugal	0
+Asset-Backed Securities	Prince Edward Island	0
+Asset-Backed Securities	Principe and Sao Tome	0
+Asset-Backed Securities	Puerto Rico	0

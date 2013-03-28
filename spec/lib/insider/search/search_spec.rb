@@ -24,15 +24,6 @@ describe "insider search" do
 			end
 		end
 		describe "xml" do
-			it "#search using default search criteria" do
-				search_criteria =  Insider::Search::SearchCriteria::formatted_output
-				result = Insider::Search::search(search_criteria)
-				expect(result.class).to eq Insider::Search::SearchOutput
-				expect(result.media_items.length).to be > 0
-				result.media_items.each do |m|
-					expect(m.group_channel_id).to eq 3
-				end	
-			end
 			it "#search using group channel name" do
 				input = {:includes => [{:type => 'groupchannelname', 
 					                      :text => 'Reuters Insider'}]}
